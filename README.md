@@ -1,7 +1,7 @@
 Gameplay
 ========
 Extended Minecart
-- https://www.nexusmods.com/stardewvalley/mods/2271?tab=description
+- https://www.nexusmods.com/stardewvalley/mods/2271
 
 Automate
 - https://www.nexusmods.com/stardewvalley/mods/1063
@@ -39,10 +39,10 @@ Generic Mod Config Menu
 - https://www.nexusmods.com/stardewvalley/mods/5098
 
 Custom NPC Exclusions
-- https://www.nexusmods.com/stardewvalley/mods/7089?tab=files
+- https://www.nexusmods.com/stardewvalley/mods/7089
 
 Expanded Preconditions Utility
-- https://www.nexusmods.com/stardewvalley/mods/6529?tab=files
+- https://www.nexusmods.com/stardewvalley/mods/6529
 
 Extra Map Layers
 - https://www.nexusmods.com/stardewvalley/mods/9633
@@ -54,10 +54,10 @@ Json Assets
 - https://www.nexusmods.com/stardewvalley/mods/1720
 
 SAAT - Audio API and Toolkit
-- https://www.nexusmods.com/stardewvalley/mods/10747?tab=files
+- https://www.nexusmods.com/stardewvalley/mods/10747
 
 Shop Tile Framework
-- https://www.nexusmods.com/stardewvalley/mods/5005?tab=files
+- https://www.nexusmods.com/stardewvalley/mods/5005
 
 
 Locations
@@ -69,7 +69,7 @@ DeepWoods
 - https://www.nexusmods.com/stardewvalley/mods/2571
 
 Better Quarry Redux
-- https://www.nexusmods.com/stardewvalley/mods/5170?tab=files
+- https://www.nexusmods.com/stardewvalley/mods/5170
 
 
 RolePlay
@@ -98,4 +98,8 @@ Cooking Skill
 Cat Gifts
 - https://www.nexusmods.com/stardewvalley/mods/2132
 
+Better Shipping Bin
+- https://www.nexusmods.com/stardewvalley/mods/10487
 
+Ui Info Suite
+- https://www.nexusmods.com/stardewvalley/mods/1150
