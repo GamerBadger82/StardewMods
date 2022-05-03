@@ -24,6 +24,79 @@ Better Sprinklers Mod
 Skip Intro
 - https://www.nexusmods.com/stardewvalley/mods/533
 
+Wear More Rings
+- https://www.nexusmods.com/stardewvalley/mods/3214
+
+Simple Crop Label
+- https://www.nexusmods.com/stardewvalley/mods/314
+
+Friends Forever
+- https://www.nexusmods.com/stardewvalley/mods/1738
+
+Bigger Backpack
+- https://www.nexusmods.com/stardewvalley/mods/1845
+
+Better Artisan Good Icons
+- https://www.nexusmods.com/stardewvalley/mods/2080
+
+Better Ranching
+- https://www.nexusmods.com/stardewvalley/mods/859
+
+Skull Cavern Elevator
+- https://www.nexusmods.com/stardewvalley/mods/963
+
+Bathroom after 2nd Houseupgrade
+- https://www.nexusmods.com/stardewvalley/mods/299
+
+Yet Another Harvest With Scythe Mod
+- https://www.nexusmods.com/stardewvalley/mods/2731
+
+Stack Everything
+- https://www.nexusmods.com/stardewvalley/mods/2053
+
+No Soil Decay
+- https://www.nexusmods.com/stardewvalley/mods/237
+
+Better Hay
+- https://www.nexusmods.com/stardewvalley/mods/1430
+
+Better Fruit Trees
+- https://www.nexusmods.com/stardewvalley/mods/1976
+
+Tool-Upgrade Delivery Service
+- https://www.nexusmods.com/stardewvalley/mods/2938
+
+Luck Skill
+- https://www.nexusmods.com/stardewvalley/mods/521
+
+Seasonal Fences
+- https://www.nexusmods.com/stardewvalley/mods/4870
+
+Billboard Anywhere
+- https://www.nexusmods.com/stardewvalley/mods/492
+
+Dynamic Night Time
+- https://www.nexusmods.com/stardewvalley/mods/2072
+
+Fast Animations
+- https://www.nexusmods.com/stardewvalley/mods/1089
+
+Content Patcher Animations
+- https://www.nexusmods.com/stardewvalley/mods/3853
+
+Part of the Community
+- https://www.nexusmods.com/stardewvalley/mods/923
+
+No Fence Decay
+- https://www.nexusmods.com/stardewvalley/mods/1180
+
+Winter Grass
+- https://www.nexusmods.com/stardewvalley/mods/1601
+
+Gift Taste Helper
+- https://www.nexusmods.com/stardewvalley/mods/229
+
+
 Frameworks
 ==========
 Mod Update Menu
@@ -58,6 +131,9 @@ SAAT - Audio API and Toolkit
 
 Shop Tile Framework
 - https://www.nexusmods.com/stardewvalley/mods/5005
+
+FeTK - Stardew-Valley Toolkit
+- https://www.nexusmods.com/stardewvalley/mods/4403
 
 
 Locations
