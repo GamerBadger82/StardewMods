@@ -1,0 +1,61 @@
+{
+"Changes":
+	[
+		{
+			"Action": "EditData",
+			"Target": "Strings/Locations",
+			"Entries":
+				{
+						"Beach_Mariner_Player_Male": "{{Lowercase: {{Random: {{ElderAntiquatedNoun}} }} }}",
+						"Beach_Mariner_Player_Female": "{{Lowercase: {{Random: {{ElderAntiquatedNoun}} }} }}"
+				},
+			"LogName": "Fix Locations - Modded Dialogue + Custom Pronouns - Plural",
+			"When": 
+				{
+					"Query: {{FixDialogues}}": true
+				}
+		},
+		{
+			"Action": "EditData",
+			"Target": "Strings/Locations",
+			"Entries":
+				{
+						"Beach_Mariner_Player_Male": "{{Lowercase: {{Random: {{ElderAntiquatedNoun}} }} }}",
+						"Beach_Mariner_Player_Female": "{{Lowercase: {{Random: {{ElderAntiquatedNoun}} }} }}"
+				},
+			"LogName": "Fix Locations - Modded Dialogue + Custom Pronouns - Singular",
+			"When": 
+				{
+					"Query: {{FixDialogues}} AND {{Singular}}": true
+				}
+		},
+		{
+			"Action": "EditData",
+			"Target": "Strings/Locations",
+			"Entries":
+				{
+						"Beach_Mariner_Player_Male": "lad",
+						"Beach_Mariner_Player_Female": "lad"
+				},
+			"LogName": "Fix Locations - Masculine Vanilla Dialogue and Pronouns",
+			"When": 
+				{
+					"Query: {{FixDialogues}} AND {{MascLanguage}}": true
+				}
+		},
+		{
+			"Action": "EditData",
+			"Target": "Strings/Locations",
+			"Entries":
+				{
+						"Beach_Mariner_Player_Male": "lass",
+						"Beach_Mariner_Player_Female": "lass"
+				},
+			"LogName": "Fix Locations - Feminine Vanilla Dialogue and Pronouns",
+			"When": 
+				{
+					"Query: {{FixDialogues}} AND {{FemLanguage}}": true
+				}
+		}
+	]
+}

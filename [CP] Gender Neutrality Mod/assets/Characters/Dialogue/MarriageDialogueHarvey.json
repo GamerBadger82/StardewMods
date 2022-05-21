@@ -1,0 +1,65 @@
+{
+"Changes":
+	[
+		{
+			"Action": "EditData",
+			"Target": "Characters/Dialogue/MarriageDialogueHarvey",
+			"Entries":
+				{
+					"Rainy_Night_2": "You look a little soggy, love. Why don't you warm yourself by the fire?",
+					"Good_2": "I knew you were the one from the moment you moved here... $l",
+					"Good_3": "Oh, my... you look {{Lowercase: {{Random: {{Adjective}} }} }} today.$l"
+				},
+			"LogName": "Fix MarriageDialogueHarvey - Modded Dialogue + Custom Pronouns - Plural",
+			"When": 
+				{
+					"Query: {{FixDialogues}}": true
+				}
+		},
+		{
+			"Action": "EditData",
+			"Target": "Characters/Dialogue/MarriageDialogueHarvey",
+			"Entries":
+				{
+					"Rainy_Night_2": "You look a little soggy, love. Why don't you warm yourself by the fire?",
+					"Good_2": "I knew you were the one from the moment you moved here... $l",
+					"Good_3": "Oh, my... you look {{Lowercase: {{Random: {{Adjective}} }} }} today.$l"
+				},
+			"LogName": "Fix MarriageDialogueHarvey - Modded Dialogue + Custom Pronouns - Singular",
+			"When": 
+				{
+					"Query: {{FixDialogues}} AND {{Singular}}": true
+				}
+		},
+		{
+			"Action": "EditData",
+			"Target": "Characters/Dialogue/MarriageDialogueHarvey",
+			"Entries":
+				{
+					"Rainy_Night_2": "You look a little soggy, hun. Why don't you warm yourself by the fire?",
+					"Good_2": "I knew you were the one from the moment you moved here... $l",
+					"Good_3": "Wow, you look really handsome today! Did you shave?$l"
+				},
+			"LogName": "Fix MarriageDialogueHarvey - Masculine Vanilla Dialogue and Pronouns",
+			"When": 
+				{
+					"Query: {{FixDialogues}} AND {{MascLanguage}}": true
+				}
+		},
+		{
+			"Action": "EditData",
+			"Target": "Characters/Dialogue/MarriageDialogueHarvey",
+			"Entries":
+				{
+					"Rainy_Night_2": "You look a little soggy, dear. Why don't you warm yourself by the fire?",
+					"Good_2": "I knew you were the one from the moment you moved here...$l",
+					"Good_3": "Oh, my... you look beautiful today.$l"
+				},
+			"LogName": "Fix MarriageDialogueHarvey - Feminine Vanilla Dialogue and Pronouns",
+			"When": 
+				{
+					"Query: {{FixDialogues}} AND {{FemLanguage}}": true
+				}
+		}
+	]
+}

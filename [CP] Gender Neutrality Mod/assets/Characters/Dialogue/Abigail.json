@@ -1,0 +1,61 @@
+{
+"Changes":
+	[
+		{
+			"Action": "EditData",
+			"Target": "Characters/Dialogue/Abigail",
+			"Entries":
+				{
+					"Event_Grave3": "Why? I'm just as strong as you!$a#$b#I'm not some fragile princess.. I can take care of myself!$a#$b#I've lived in the valley my whole life, but I've never really done anything memorable. I want to go on an adventure!$8",
+					"summer_Tue4": "You're an interesting {{Lowercase: {{Random: {{GenericNoun}} }} }}, @. I'm glad you moved here.$h"
+				},
+			"LogName": "Fix Abigail - Modded Dialogue + Custom Pronouns - Plural",
+			"When": 
+				{
+					"Query: {{FixDialogues}}": true
+				}
+		},
+		{
+			"Action": "EditData",
+			"Target": "Characters/Dialogue/Abigail",
+			"Entries":
+				{
+					"Event_Grave3": "Why? I'm just as strong as you!$a#$b#I'm not some fragile princess.. I can take care of myself!$a#$b#I've lived in the valley my whole life, but I've never really done anything memorable. I want to go on an adventure!$8",
+					"summer_Tue4": "You're an interesting {{Lowercase: {{Random: {{GenericNoun}} }} }}, @. I'm glad you moved here.$h"
+				},
+			"LogName": "Fix Abigail - Modded Dialogue + Custom Pronouns - Singular",
+			"When": 
+				{
+					"Query: {{FixDialogues}} AND {{Singular}}": true
+				}
+		},
+		{
+			"Action": "EditData",
+			"Target": "Characters/Dialogue/Abigail",
+			"Entries":
+				{
+					"Event_Grave3": "Oh, it's because I'm a girl... isn't it? Ugh...$u#$b#I'm not some fragile princess.. I can take care of myself!$a#$b#I've lived in the valley my whole life, but I've never really done anything memorable. I want to go on an adventure!$8",
+					"summer_Tue4": "You're an interesting guy, @. I'm glad you moved here.$h"
+				},
+			"LogName": "Fix Abigail - Masculine Vanilla Dialogue and Pronouns",
+			"When": 
+				{
+					"Query: {{FixDialogues}} AND {{MascLanguage}}": true
+				}
+		},
+		{
+			"Action": "EditData",
+			"Target": "Characters/Dialogue/Abigail",
+			"Entries":
+				{
+					"Event_Grave3": "Oh, it's because I'm a girl... isn't it? Ugh...$u^Why? I'm just as strong as you!$a#$b#I'm not some fragile princess.. I can take care of myself!$a#$b#I've lived in the valley my whole life, but I've never really done anything memorable. I want to go on an adventure!$8",
+					"summer_Tue4": "You're an interesting lady, @. I'm glad you moved here.$h"
+				},
+			"LogName": "Fix Abigail - Feminine Vanilla Dialogue and Pronouns",
+			"When": 
+				{
+					"Query: {{FixDialogues}} AND {{FemLanguage}}": true
+				}
+		}
+	]
+}

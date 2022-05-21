@@ -1,0 +1,65 @@
+{
+"Changes":
+	[
+		{
+			"Action": "EditData",
+			"Target": "Characters/Dialogue/MarriageDialogueAlex",
+			"Entries":
+				{
+					"Indoor_Day_0": "Ahh... there's nothing like a good night's sleep next to my {{Lowercase: {{Random: {{SpouseNoun}} }} }}!$h",
+					"Outdoor_3": "Look at us, with our little farm. We make a cute couple.$h",
+					"Good_1": "You're so {{Random: {{Adjective}} }}... have I told you that?$l"
+				},
+			"LogName": "Fix MarriageDialogueAlex - Modded Dialogue + Custom Pronouns - Plural",
+			"When": 
+				{
+					"Query: {{FixDialogues}}": true
+				}
+		},
+		{
+			"Action": "EditData",
+			"Target": "Characters/Dialogue/MarriageDialogueAlex",
+			"Entries":
+				{
+					"Indoor_Day_0": "Ahh... there's nothing like a good night's sleep next to my {{Lowercase: {{Random: {{SpouseNoun}} }} }}!$h",
+					"Outdoor_3": "Look at us, with our little farm. We make a cute couple.$h",
+					"Good_1": "You're so {{Random: {{Adjective}} }}... have I told you that?$l"
+				},
+			"LogName": "Fix MarriageDialogueAlex - Modded Dialogue + Custom Pronouns - Singular",
+			"When": 
+				{
+					"Query: {{FixDialogues}} AND {{Singular}}": true
+				}
+		},
+		{
+			"Action": "EditData",
+			"Target": "Characters/Dialogue/MarriageDialogueAlex",
+			"Entries":
+				{
+					"Indoor_Day_0": "Ahh... there's nothing like a good night's sleep next to my husband!$h",
+					"Outdoor_3": "Look at us, with our little farm. We make a cute couple.$h",
+					"Good_1": "You're very handsome... have I told you that?$l"
+				},
+			"LogName": "Fix MarriageDialogueAlex - Masculine Vanilla Dialogue and Pronouns",
+			"When": 
+				{
+					"Query: {{FixDialogues}} AND {{MascLanguage}}": true
+				}
+		},
+		{
+			"Action": "EditData",
+			"Target": "Characters/Dialogue/MarriageDialogueAlex",
+			"Entries":
+				{
+					"Indoor_Day_0": "Ahh... there's nothing like a good night's sleep next to my wife!$h",
+					"Outdoor_3": "Hey. Maybe it's the golden light, but you look beautiful today.$l",
+					"Good_1": "You're very beautiful... have I told you that?$l"
+				},
+			"LogName": "Fix MarriageDialogueAlex - Feminine Vanilla Dialogue and Pronouns",
+			"When": 
+				{
+					"Query: {{FixDialogues}} AND {{FemLanguage}}": true
+				}
+		}
+	]
+}

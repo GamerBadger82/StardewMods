@@ -1,0 +1,69 @@
+{
+"Changes":
+	[
+		{
+			"Action": "EditData",
+			"Target": "Characters/Dialogue/MarriageDialogueElliott",
+			"Entries":
+				{
+					"Rainy_Night_0": "Good evening. Did you have a productive day, @?",
+					"Rainy_Night_2": "My skill with words is unmatched, yet I can't find the way to properly describe your allure.$l",
+					"Indoor_Night_0": "From the brightest winter star, to the shimmer of an iridium vein... nothing can compare with the vision before me.$l",
+					"Good_3": "Wow, your allure is irresistible today. I can't keep my eyes off you.$l"
+				},
+			"LogName": "Fix MarriageDialogueElliott - Modded Dialogue + Custom Pronouns - Plural",
+			"When": 
+				{
+					"Query: {{FixDialogues}}": true
+				}
+		},
+		{
+			"Action": "EditData",
+			"Target": "Characters/Dialogue/MarriageDialogueElliott",
+			"Entries":
+				{
+					"Rainy_Night_0": "Good evening. Did you have a productive day, @?",
+					"Rainy_Night_2": "My skill with words is unmatched, yet I can't find the way to properly describe your allure.$l",
+					"Indoor_Night_0": "From the brightest winter star, to the shimmer of an iridium vein... nothing can compare with the vision before me.$l",
+					"Good_3": "Wow, your allure is irresistible today. I can't keep my eyes off you.$l"
+				},
+			"LogName": "Fix MarriageDialogueElliott - Modded Dialogue + Custom Pronouns - Singular",
+			"When": 
+				{
+					"Query: {{FixDialogues}} AND {{Singular}}": true
+				}
+		},
+		{
+			"Action": "EditData",
+			"Target": "Characters/Dialogue/MarriageDialogueElliott",
+			"Entries":
+				{
+					"Rainy_Night_0": "Good evening. Did you have a productive day, @?",
+					"Rainy_Night_2": "My skill with words is unmatched, yet I can't find the way to properly describe your allure.$l",
+					"Indoor_Night_0": "From the brightest winter star, to the shimmer of an iridium vein... nothing can compare to my wonderful man.$l",
+					"Good_3": "Wow, you look really handsome today! Did you shave? Your jawline is perfect.$l"
+				},
+			"LogName": "Fix MarriageDialogueElliott - Masculine Vanilla Dialogue and Pronouns",
+			"When": 
+				{
+					"Query: {{FixDialogues}} AND {{MascLanguage}}": true
+				}
+		},
+		{
+			"Action": "EditData",
+			"Target": "Characters/Dialogue/MarriageDialogueElliott",
+			"Entries":
+				{
+					"Rainy_Night_0": "Good evening. Did you have a productive day, my dear?",
+					"Rainy_Night_2": "My skill with words is unmatched, yet I can't find the way to properly describe your beauty.$l",
+					"Indoor_Night_0": "From the brightest winter star, to the fragrant fairy rose... nothing can compare with your captivating beauty.$l",
+					"Good_3": "Your feminine allure is irresistible today. I can't keep my eyes off you.$l"
+				},
+			"LogName": "Fix MarriageDialogueElliott - Feminine Vanilla Dialogue and Pronouns",
+			"When": 
+				{
+					"Query: {{FixDialogues}} AND {{FemLanguage}}": true
+				}
+		}
+	]
+}

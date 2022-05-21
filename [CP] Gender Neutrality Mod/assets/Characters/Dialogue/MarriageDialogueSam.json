@@ -1,0 +1,57 @@
+{
+"Changes":
+	[
+		{
+			"Action": "EditData",
+			"Target": "Characters/Dialogue/MarriageDialogueSam",
+			"Entries":
+				{
+					"Good_3": "Wow, you look really {{Lowercase: {{Random: {{Adjective}} }} }} today! Did you do something with your hair?$l"
+				},
+			"LogName": "Fix MarriageDialogueSam - Modded Dialogue + Custom Pronouns - Plural",
+			"When": 
+				{
+					"Query: {{FixDialogues}}": true
+				}
+		},
+		{
+			"Action": "EditData",
+			"Target": "Characters/Dialogue/MarriageDialogueSam",
+			"Entries":
+				{
+					"Good_3": "Wow, you look really {{Lowercase: {{Random: {{Adjective}} }} }} today! Did you do something with your hair?$l"
+				},
+			"LogName": "Fix MarriageDialogueSam - Modded Dialogue + Custom Pronouns - Singular",
+			"When": 
+				{
+					"Query: {{FixDialogues}} AND {{Singular}}": true
+				}
+		},
+		{
+			"Action": "EditData",
+			"Target": "Characters/Dialogue/MarriageDialogueSam",
+			"Entries":
+				{
+					"Good_3": "Wow, you look really handsome today! Did you do something with your hair?$l"
+				},
+			"LogName": "Fix MarriageDialogueSam - Masculine Vanilla Dialogue and Pronouns",
+			"When": 
+				{
+					"Query: {{FixDialogues}} AND {{MascLanguage}}": true
+				}
+		},
+		{
+			"Action": "EditData",
+			"Target": "Characters/Dialogue/MarriageDialogueSam",
+			"Entries":
+				{
+					"Good_3": "Wow, you look stunning today. Did you do something new with your hair?$l"
+				},
+			"LogName": "Fix MarriageDialogueSam - Feminine Vanilla Dialogue and Pronouns",
+			"When": 
+				{
+					"Query: {{FixDialogues}} AND {{FemLanguage}}": true
+				}
+		}
+	]
+}

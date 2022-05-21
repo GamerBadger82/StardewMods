@@ -1,0 +1,57 @@
+{
+"Changes":
+	[
+		{
+			"Action": "EditData",
+			"Target": "Characters/Dialogue/Marnie",
+			"Entries":
+				{
+					"Mon": "I love animals, {{Random: {{Title}} }} @. If you treat yours well I'm sure we'll become good friends!"
+				},
+			"LogName": "Fix Marnie - Modded Dialogue + Custom Pronouns - Plural",
+			"When": 
+				{
+					"Query: {{FixDialogues}}": true
+				}
+		},
+		{
+			"Action": "EditData",
+			"Target": "Characters/Dialogue/Marnie",
+			"Entries":
+				{
+					"Mon": "I love animals, {{Random: {{Title}} }} @. If you treat yours well I'm sure we'll become good friends!"
+				},
+			"LogName": "Fix Marnie - Modded Dialogue + Custom Pronouns - Singular",
+			"When": 
+				{
+					"Query: {{FixDialogues}} AND {{Singular}}": true
+				}
+		},
+		{
+			"Action": "EditData",
+			"Target": "Characters/Dialogue/Marnie",
+			"Entries":
+				{
+					"Mon": "I love animals, Mr. @. If you treat yours well I'm sure we'll become good friends!"
+				},
+			"LogName": "Fix Marnie - Masculine Vanilla Dialogue and Pronouns",
+			"When": 
+				{
+					"Query: {{FixDialogues}} AND {{MascLanguage}}": true
+				}
+		},
+		{
+			"Action": "EditData",
+			"Target": "Characters/Dialogue/Marnie",
+			"Entries":
+				{
+					"Mon": "I love animals, Ms. @. If you treat yours well I'm sure we'll become good friends!"
+				},
+			"LogName": "Fix Marnie - Feminine Vanilla Dialogue and Pronouns",
+			"When": 
+				{
+					"Query: {{FixDialogues}} AND {{FemLanguage}}": true
+				}
+		}
+	]
+}

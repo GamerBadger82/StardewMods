@@ -1,0 +1,141 @@
+{
+"Changes":
+	[
+		{
+			"Action": "EditData",
+			"Target": "Strings/UI",
+			"Entries":
+				{
+					"AskedToDance_Male": "{0} has asked you to dance with {{Lowercase: {{Random: {{ObjectivePronoun}} }} }}. Will you dance with {0}?",
+					"AskedToDance_Female": "{0} has asked you to dance with {{Lowercase: {{Random: {{ObjectivePronoun}} }} }}. Will you dance with {0}?",
+					"AskedToMarry_Male": "{0} has asked you to marry {{Lowercase: {{Random: {{ObjectivePronoun}} }} }}! Will you accept {{Lowercase: {{Random: {{PossessivePronoun}} }} }} offer of marriage?",
+					"AskedToMarry_Female": "{0} has asked you to marry {{Lowercase: {{Random: {{ObjectivePronoun}} }} }}! Will you accept {{Lowercase: {{Random: {{PossessivePronoun}} }} }} offer of marriage?",
+					"AskedToHaveBaby_Male": "{0} has asked you to have a baby with {{Lowercase: {{Random: {{ObjectivePronoun}} }} }}! Do you want to have a baby?",
+					"AskedToHaveBaby_Female": "{0} has asked you to have a baby with {{Lowercase: {{Random: {{ObjectivePronoun}} }} }}! Do you want to have a baby?",
+					"AskedToAdoptBaby_Male": "{0} has asked you to have a baby with {{Lowercase: {{Random: {{ObjectivePronoun}} }} }}! Do you want to have a baby?",
+					"AskedToAdoptBaby_Female": "{0} has asked you to have a baby with {{Lowercase: {{Random: {{ObjectivePronoun}} }} }}! Do you want to have a baby?",
+					"AskedToHaveBaby_Rejected_Male": "{0} has decided {{Lowercase: {{Random: {{SubjectivePronoun}} }} }}'d rather not have a baby at this point.",
+					"AskedToHaveBaby_Rejected_Female": "{0} has decided {{Lowercase: {{Random: {{SubjectivePronoun}} }} }}'d rather not have a baby at this point.",
+					"AskedToAdoptBaby_Rejected_Male": "{0} has decided {{Lowercase: {{Random: {{SubjectivePronoun}} }} }}'d rather not have a baby at the moment.",
+					"AskedToAdoptBaby_Rejected_Female": "{0} has decided {{Lowercase: {{Random: {{SubjectivePronoun}} }} }}'d rather not have a baby at the moment.",
+					"GivenGift_Male": "{0} is offering you {{Lowercase: {{Random: {{PossessivePronoun}} }} }} {1}. Will you accept it?",
+					"GivenGift_Female": "{0} is offering you {{Lowercase: {{Random: {{PossessivePronoun}} }} }} {1}. Will you accept it?",
+					"Chat_SoloEarned1mil_Male": "{0} has earned 1,000,000g on {{Lowercase: {{Random: {{PossessivePronoun}} }} }} own.",
+					"Chat_SoloEarned100k_Male": "{0} has earned 100,000g on {{Lowercase: {{Random: {{PossessivePronoun}} }} }} own.",
+					"Chat_SoloEarned10k_Male": "{0} has earned 10,000g on {{Lowercase: {{Random: {{PossessivePronoun}} }} }} own.",
+					"Chat_SoloEarned1k_Male": "{0} has earned 1,000g on {{Lowercase: {{Random: {{PossessivePronoun}} }} }} own.",
+					"Chat_SoloEarned1mil_Female": "{0} has earned 1,000,000g on {{Lowercase: {{Random: {{PossessivePronoun}} }} }} own.",
+					"Chat_SoloEarned100k_Female": "{0} has earned 100,000g on {{Lowercase: {{Random: {{PossessivePronoun}} }} }} own.",
+					"Chat_SoloEarned10k_Female": "{0} has earned 10,000g on {{Lowercase: {{Random: {{PossessivePronoun}} }} }} own.",
+					"Chat_SoloEarned1k_Female": "{0} has earned 1,000g on {{Lowercase: {{Random: {{PossessivePronoun}} }} }} own."
+				},
+			"LogName": "Fix UI - Modded Dialogue + Custom Pronouns - Plural",
+			"When": 
+				{
+					"Query: {{FixOthers}}": true
+				}
+		},
+		{
+			"Action": "EditData",
+			"Target": "Strings/UI",
+			"Entries":
+				{
+					"AskedToDance_Male": "{0} has asked you to dance with {{Lowercase: {{Random: {{ObjectivePronoun}} }} }}. Will you dance with {0}?",
+					"AskedToDance_Female": "{0} has asked you to dance with {{Lowercase: {{Random: {{ObjectivePronoun}} }} }}. Will you dance with {0}?",
+					"AskedToMarry_Male": "{0} has asked you to marry {{Lowercase: {{Random: {{ObjectivePronoun}} }} }}! Will you accept {{Lowercase: {{Random: {{PossessivePronoun}} }} }} offer of marriage?",
+					"AskedToMarry_Female": "{0} has asked you to marry {{Lowercase: {{Random: {{ObjectivePronoun}} }} }}! Will you accept {{Lowercase: {{Random: {{PossessivePronoun}} }} }} offer of marriage?",
+					"AskedToHaveBaby_Male": "{0} has asked you to have a baby with {{Lowercase: {{Random: {{ObjectivePronoun}} }} }}! Do you want to have a baby?",
+					"AskedToHaveBaby_Female": "{0} has asked you to have a baby with {{Lowercase: {{Random: {{ObjectivePronoun}} }} }}! Do you want to have a baby?",
+					"AskedToAdoptBaby_Male": "{0} has asked you to have a baby with {{Lowercase: {{Random: {{ObjectivePronoun}} }} }}! Do you want to have a baby?",
+					"AskedToAdoptBaby_Female": "{0} has asked you to have a baby with {{Lowercase: {{Random: {{ObjectivePronoun}} }} }}! Do you want to have a baby?",
+					"AskedToHaveBaby_Rejected_Male": "{0} has decided {{Lowercase: {{Random: {{ObjectivePronoun}} }} }}'d rather not have a baby at this point.",
+					"AskedToHaveBaby_Rejected_Female": "{0} has decided {{Lowercase: {{Random: {{ObjectivePronoun}} }} }}'d rather not have a baby at this point.",
+					"AskedToAdoptBaby_Rejected_Male": "{0} has decided {{Lowercase: {{Random: {{ObjectivePronoun}} }} }}'d rather not adopt a baby at the moment.",
+					"AskedToAdoptBaby_Rejected_Female": "{0} has decided {{Lowercase: {{Random: {{ObjectivePronoun}} }} }}'d rather not adopt a baby at the moment.",
+					"GivenGift_Male": "{0} is offering you {{Lowercase: {{Random: {{PossessivePronoun}} }} }} {1}. Will you accept it?",
+					"GivenGift_Female": "{0} is offering you {{Lowercase: {{Random: {{PossessivePronoun}} }} }} {1}. Will you accept it?",
+					"Chat_SoloEarned1mil_Male": "{0} has earned 1,000,000g on {{Lowercase: {{Random: {{PossessivePronoun}} }} }} own.",
+					"Chat_SoloEarned100k_Male": "{0} has earned 100,000g on {{Lowercase: {{Random: {{PossessivePronoun}} }} }} own.",
+					"Chat_SoloEarned10k_Male": "{0} has earned 10,000g on {{Lowercase: {{Random: {{PossessivePronoun}} }} }} own.",
+					"Chat_SoloEarned1k_Male": "{0} has earned 1,000g on {{Lowercase: {{Random: {{PossessivePronoun}} }} }} own.",
+					"Chat_SoloEarned1mil_Female": "{0} has earned 1,000,000g on {{Lowercase: {{Random: {{PossessivePronoun}} }} }} own.",
+					"Chat_SoloEarned100k_Female": "{0} has earned 100,000g on {{Lowercase: {{Random: {{PossessivePronoun}} }} }} own.",
+					"Chat_SoloEarned10k_Female": "{0} has earned 10,000g on {{Lowercase: {{Random: {{PossessivePronoun}} }} }} own.",
+					"Chat_SoloEarned1k_Female": "{0} has earned 1,000g on {{Lowercase: {{Random: {{PossessivePronoun}} }} }} own."
+				},
+			"LogName": "Fix UI - Modded Dialogue + Custom Pronouns - Singular",
+			"When": 
+				{
+					"Query: {{FixOthers}} AND {{Singular}}": true
+				}
+		},
+		{
+			"Action": "EditData",
+			"Target": "Strings/UI",
+			"Entries":
+				{
+					"AskedToDance_Male": "{0} has asked you to dance with him. Will you dance with {0}?",
+					"AskedToDance_Female": "{0} has asked you to dance with him. Will you dance with {0}?",
+					"AskedToMarry_Male": "{0} has asked you to marry him! Will you accept his offer of marriage?",
+					"AskedToMarry_Female": "{0} has asked you to marry him! Will you accept his offer of marriage?",
+					"AskedToHaveBaby_Male": "{0} has asked you to have a baby with him! Do you want to have a baby?",
+					"AskedToHaveBaby_Female": "{0} has asked you to have a baby with him! Do you want to have a baby?",
+					"AskedToAdoptBaby_Male": "{0} has asked you to adopt a baby with him! Do you want to have a baby?",
+					"AskedToAdoptBaby_Female": "{0} has asked you to adopt a baby with him! Do you want to have a baby?",
+					"AskedToHaveBaby_Rejected_Male": "{0} has decided he'd rather not have a baby at this point.",
+					"AskedToHaveBaby_Rejected_Female": "{0} has decided he'd rather not have a baby at this point.",
+					"AskedToAdoptBaby_Rejected_Male": "{0} has decided he'd rather not adopt a baby at the moment.",
+					"AskedToAdoptBaby_Rejected_Female": "{0} has decided he'd rather not adopt a baby at the moment.",
+					"GivenGift_Male": "{0} is offering you his {1}. Will you accept it?",
+					"GivenGift_Female": "{0} is offering you his {1}. Will you accept it?",
+					"Chat_SoloEarned1mil_Male": "{0} has earned 1,000,000g on his own.",
+					"Chat_SoloEarned100k_Male": "{0} has earned 100,000g on his own.",
+					"Chat_SoloEarned10k_Male": "{0} has earned 10,000g on his own.",
+					"Chat_SoloEarned1k_Male": "{0} has earned 1,000g on his own.",
+					"Chat_SoloEarned1mil_Female": "{0} has earned 1,000,000g on his own.",
+					"Chat_SoloEarned100k_Female": "{0} has earned 100,000g on his own.",
+					"Chat_SoloEarned10k_Female": "{0} has earned 10,000g on his own.",
+					"Chat_SoloEarned1k_Female": "{0} has earned 1,000g on his own."
+				},
+			"LogName": "Fix UI - Masculine Vanilla Dialogue and Pronouns",
+			"When": 
+				{
+					"Query: {{FixOthers}} AND {{MascLanguage}}": true
+				}
+		},
+		{
+			"Action": "EditData",
+			"Target": "Strings/UI",
+			"Entries":
+				{
+					"AskedToDance_Male": "{0} has asked you to dance with her. Will you dance with {0}?",
+					"AskedToDance_Female": "{0} has asked you to dance with her. Will you dance with {0}?",
+					"AskedToMarry_Male": "{0} has asked you to marry her! Will you accept her offer of marriage?",
+					"AskedToMarry_Female": "{0} has asked you to marry her! Will you accept her offer of marriage?",
+					"AskedToHaveBaby_Male": "{0} has asked you to have a baby with her! Do you want to have a baby?",
+					"AskedToHaveBaby_Female": "{0} has asked you to have a baby with her! Do you want to have a baby?",
+					"AskedToAdoptBaby_Male": "{0} has asked you to adopt a baby with her! Do you want to have a baby?",
+					"AskedToAdoptBaby_Female": "{0} has asked you to adopt a baby with her! Do you want to have a baby?",
+					"AskedToHaveBaby_Rejected_Male": "{0} has decided she'd rather not have a baby at ther point.",
+					"AskedToHaveBaby_Rejected_Female": "{0} has decided she'd rather not have a baby at ther point.",
+					"AskedToAdoptBaby_Rejected_Male": "{0} has decided she'd rather not adopt a baby at the moment.",
+					"AskedToAdoptBaby_Rejected_Female": "{0} has decided she'd rather not adopt a baby at the moment.",
+					"GivenGift_Male": "{0} is offering you her {1}. Will you accept it?",
+					"GivenGift_Female": "{0} is offering you her {1}. Will you accept it?",
+					"Chat_SoloEarned1mil_Male": "{0} has earned 1,000,000g on her own.",
+					"Chat_SoloEarned100k_Male": "{0} has earned 100,000g on her own.",
+					"Chat_SoloEarned10k_Male": "{0} has earned 10,000g on her own.",
+					"Chat_SoloEarned1k_Male": "{0} has earned 1,000g on her own.",
+					"Chat_SoloEarned1mil_Female": "{0} has earned 1,000,000g on her own.",
+					"Chat_SoloEarned100k_Female": "{0} has earned 100,000g on her own.",
+					"Chat_SoloEarned10k_Female": "{0} has earned 10,000g on her own.",
+					"Chat_SoloEarned1k_Female": "{0} has earned 1,000g on her own."
+				},
+			"LogName": "Fix UI - Feminine Vanilla Dialogue and Pronouns",
+			"When": 
+				{
+					"Query: {{FixOthers}} AND {{FemLanguage}}": true
+				}
+		}
+	]
+}

@@ -1,0 +1,57 @@
+{
+"Changes":
+	[
+		{
+			"Action": "EditData",
+			"Target": "Characters/Dialogue/MarriageDialogueAbigail",
+			"Entries":
+				{
+					"Rainy_Night_5": "Hey! You look like you've been hard at work. You know, you look cute when you're a little exhausted.$h"
+				},
+			"LogName": "Fix MarriageDialogueAbigail - Modded Dialogue + Custom Pronouns - Plural",
+			"When": 
+				{
+					"Query: {{FixDialogues}}": true
+				}
+		},
+		{
+			"Action": "EditData",
+			"Target": "Characters/Dialogue/MarriageDialogueAbigail",
+			"Entries":
+				{
+					"Rainy_Night_5": "Hey! You look like you've been hard at work. You know, you look cute when you're a little exhausted.$h"
+				},
+			"LogName": "Fix MarriageDialogueAbigail - Modded Dialogue + Custom Pronouns - Singular",
+			"When": 
+				{
+					"Query: {{FixDialogues}} AND {{Singular}}": true
+				}
+		},
+		{
+			"Action": "EditData",
+			"Target": "Characters/Dialogue/MarriageDialogueAbigail",
+			"Entries":
+				{
+					"Rainy_Night_5": "Hey! You look like you've been hard at work. Can I help you relax?"
+				},
+			"LogName": "Fix MarriageDialogueAbigail - Masculine Vanilla Dialogue and Pronouns",
+			"When": 
+				{
+					"Query: {{FixDialogues}} AND {{MascLanguage}}": true
+				}
+		},
+		{
+			"Action": "EditData",
+			"Target": "Characters/Dialogue/MarriageDialogueAbigail",
+			"Entries":
+				{
+					"Rainy_Night_5": "Have you been working hard? You look cute when you're a little exhausted.$h"
+				},
+			"LogName": "Fix MarriageDialogueAbigail - Feminine Vanilla Dialogue and Pronouns",
+			"When": 
+				{
+					"Query: {{FixDialogues}} AND {{FemLanguage}}": true
+				}
+		}
+	]
+}

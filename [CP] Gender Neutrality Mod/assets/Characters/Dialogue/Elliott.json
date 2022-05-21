@@ -1,0 +1,57 @@
+{
+"Changes":
+	[
+		{
+			"Action": "EditData",
+			"Target": "Characters/Dialogue/Elliott",
+			"Entries":
+				{
+					"event_boat1": "So am I.$l"
+				},
+			"LogName": "Fix Elliott - Modded Dialogue + Custom Pronouns - Plural",
+			"When": 
+				{
+					"Query: {{FixDialogues}}": true
+				}
+		},
+		{
+			"Action": "EditData",
+			"Target": "Characters/Dialogue/Elliott",
+			"Entries":
+				{
+					"event_boat1": "So am I.$l"
+				},
+			"LogName": "Fix Elliott - Modded Dialogue + Custom Pronouns - Singular",
+			"When": 
+				{
+					"Query: {{FixDialogues}} AND {{Singular}}": true
+				}
+		},
+		{
+			"Action": "EditData",
+			"Target": "Characters/Dialogue/Elliott",
+			"Entries":
+				{
+					"event_boat1": "... I was worried you might not feel this way about another man.$l"
+				},
+			"LogName": "Fix Elliott - Masculine Vanilla Dialogue and Pronouns",
+			"When": 
+				{
+					"Query: {{FixDialogues}} AND {{MascLanguage}}": true
+				}
+		},
+		{
+			"Action": "EditData",
+			"Target": "Characters/Dialogue/Elliott",
+			"Entries":
+				{
+					"event_boat1": "So am I.$l"
+				},
+			"LogName": "Fix Elliott - Feminine Vanilla Dialogue and Pronouns",
+			"When": 
+				{
+					"Query: {{FixDialogues}} AND {{FemLanguage}}": true
+				}
+		}
+	]
+}

@@ -1,0 +1,61 @@
+{
+"Changes":
+	[
+		{
+			"Action": "EditData",
+			"Target": "Characters/Dialogue/Sebastian",
+			"Entries":
+				{
+					"Tue6": "I like your new boots!$h#$e#Do you want to hang out for a while?",
+					"event_garage3": "There's no need to worry... I'll make sure you're safe.$8"
+				},
+			"LogName": "Fix Sebastian - Modded Dialogue + Custom Pronouns - Plural",
+			"When": 
+				{
+					"Query: {{FixDialogues}}": true
+				}
+		},
+		{
+			"Action": "EditData",
+			"Target": "Characters/Dialogue/Sebastian",
+			"Entries":
+				{
+					"Tue6": "I like your new boots!$h#$e#Do you want to hang out for a while?",
+					"event_garage3": "There's no need to worry... I'll make sure you're safe.$8"
+				},
+			"LogName": "Fix Sebastian - Modded Dialogue + Custom Pronouns - Singular",
+			"When": 
+				{
+					"Query: {{FixDialogues}} AND {{Singular}}": true
+				}
+		},
+		{
+			"Action": "EditData",
+			"Target": "Characters/Dialogue/Sebastian",
+			"Entries":
+				{
+					"Tue6": "I like your new boots!$h#$e#Do you want to hang out for a while?",
+					"event_garage3": "Don't worry, I'll make sure to show you the ropes before I let you do anything dangerous.$8"
+				},
+			"LogName": "Fix Sebastian - Masculine Vanilla Dialogue and Pronouns",
+			"When": 
+				{
+					"Query: {{FixDialogues}} AND {{MascLanguage}}": true
+				}
+		},
+		{
+			"Action": "EditData",
+			"Target": "Characters/Dialogue/Sebastian",
+			"Entries":
+				{
+					"Tue6": "Your hair looks nice today.$h#$e#Do you want to hang out for a while?",
+					"event_garage3": "There's no need to worry... I'll make sure you're safe.$8"
+				},
+			"LogName": "Fix Sebastian - Feminine Vanilla Dialogue and Pronouns",
+			"When": 
+				{
+					"Query: {{FixDialogues}} AND {{FemLanguage}}": true
+				}
+		}
+	]
+}

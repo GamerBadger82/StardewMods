@@ -1,0 +1,57 @@
+{
+"Changes":
+	[
+		{
+			"Action": "EditData",
+			"Target": "Characters/Dialogue/Evelyn",
+			"Entries":
+				{
+					"fall_Sat_inlaw_Alex": "Oh, hello my dear. I think of you as my own grand{{Lowercase: {{Random: {{ElderFamilialNoun}} }} }} now.$h"
+				},
+			"LogName": "Fix Evelyn - Modded Dialogue + Custom Pronouns - Plural",
+			"When": 
+				{
+					"Query: {{FixDialogues}}": true
+				}
+		},
+		{
+			"Action": "EditData",
+			"Target": "Characters/Dialogue/Evelyn",
+			"Entries":
+				{
+					"fall_Sat_inlaw_Alex": "Oh, hello my dear. I think of you as my own grand{{Lowercase: {{Random: {{ElderFamilialNoun}} }} }} now.$h"
+				},
+			"LogName": "Fix Evelyn - Modded Dialogue + Custom Pronouns - Singular",
+			"When": 
+				{
+					"Query: {{FixDialogues}} AND {{Singular}}": true
+				}
+		},
+		{
+			"Action": "EditData",
+			"Target": "Characters/Dialogue/Evelyn",
+			"Entries":
+				{
+					"fall_Sat_inlaw_Alex": "Oh, hello my dear. I think of you as my own grandson now.$h"
+				},
+			"LogName": "Fix Evelyn - Masculine Vanilla Dialogue and Pronouns",
+			"When": 
+				{
+					"Query: {{FixDialogues}} AND {{MascLanguage}}": true
+				}
+		},
+		{
+			"Action": "EditData",
+			"Target": "Characters/Dialogue/Evelyn",
+			"Entries":
+				{
+					"fall_Sat_inlaw_Alex": "Oh, hello my dear. I think of you as my own grand-daughter now.$h"
+				},
+			"LogName": "Fix Evelyn - Feminine Vanilla Dialogue and Pronouns",
+			"When": 
+				{
+					"Query: {{FixDialogues}} AND {{FemLanguage}}": true
+				}
+		}
+	]
+}

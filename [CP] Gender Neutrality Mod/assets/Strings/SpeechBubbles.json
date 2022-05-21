@@ -1,0 +1,61 @@
+{
+"Changes":
+	[
+		{
+			"Action": "EditData",
+			"Target": "Strings/SpeechBubbles",
+			"Entries":
+				{
+						"AdventureGuild_Marlon_Greeting_Male": "{{Random: {{SubjectivePronoun}} }}'re back!",
+						"AdventureGuild_Marlon_Greeting_Female": "{{Random: {{SubjectivePronoun}} }}'re back!"
+				},
+			"LogName": "Fix SpeechBubbles - Modded Dialogue + Custom Pronouns - Plural",
+			"When": 
+				{
+					"Query: {{FixDialogues}}": true
+				}
+		},
+		{
+			"Action": "EditData",
+			"Target": "Strings/SpeechBubbles",
+			"Entries":
+				{
+						"AdventureGuild_Marlon_Greeting_Male": "{{Random: {{SubjectivePronoun}} }}'s back!",
+						"AdventureGuild_Marlon_Greeting_Female": "{{Random: {{SubjectivePronoun}} }}'s back!"
+				},
+			"LogName": "Fix SpeechBubbles - Modded Dialogue + Custom Pronouns - Singular",
+			"When": 
+				{
+					"Query: {{FixDialogues}} AND {{Singular}}": true
+				}
+		},
+		{
+			"Action": "EditData",
+			"Target": "Strings/SpeechBubbles",
+			"Entries":
+				{
+						"AdventureGuild_Marlon_Greeting_Male": "He's back!",
+						"AdventureGuild_Marlon_Greeting_Female": "He's back!"
+				},
+			"LogName": "Fix SpeechBubbles - Masculine Vanilla Dialogue and Pronouns",
+			"When": 
+				{
+					"Query: {{FixDialogues}} AND {{MascLanguage}}": true
+				}
+		},
+		{
+			"Action": "EditData",
+			"Target": "Strings/SpeechBubbles",
+			"Entries":
+				{
+						"AdventureGuild_Marlon_Greeting_Male": "She's back!",
+						"AdventureGuild_Marlon_Greeting_Female": "She's back!"
+				},
+			"LogName": "Fix SpeechBubbles - Feminine Vanilla Dialogue and Pronouns",
+			"When": 
+				{
+					"Query: {{FixDialogues}} AND {{FemLanguage}}": true
+				}
+		}
+	]
+}

@@ -1,0 +1,65 @@
+{
+"Changes":
+	[
+		{
+			"Action": "EditData",
+			"Target": "Characters/Dialogue/Vincent",
+			"Entries":
+				{
+					"Tue6": "Can you keep a secret, @?$u#$b#I wanna marry Miss Penny when I grow up.#$e#Just don't tell her, okay?$u",
+					"Sun": "Hi there, @!",
+					"Sun10": "Hi {{Lowercase: {{Random: {{ChildFamilialNoun}} }} }} @!#$e#Don't tell Mom... but you're my favorite grown-up.$h"
+				},
+			"LogName": "Fix Vincent - Modded Dialogue + Custom Pronouns - Plural",
+			"When": 
+				{
+					"Query: {{FixDialogues}}": true
+				}
+		},
+		{
+			"Action": "EditData",
+			"Target": "Characters/Dialogue/Vincent",
+			"Entries":
+				{
+					"Tue6": "Can you keep a secret, @?$u#$b#I wanna marry Miss Penny when I grow up.#$e#Just don't tell her, okay?$u",
+					"Sun": "Hi there, @!",
+				"Sun10": "Hi {{Lowercase: {{Random: {{ChildFamilialNoun}} }} }} @!#$e#Don't tell Mom... but you're my favorite grown-up.$h"
+				},
+			"LogName": "Fix Vincent - Modded Dialogue + Custom Pronouns - Singular",
+			"When": 
+				{
+					"Query: {{FixDialogues}} AND {{Singular}}": true
+				}
+		},
+		{
+			"Action": "EditData",
+			"Target": "Characters/Dialogue/Vincent",
+			"Entries":
+				{
+					"Tue6": "Can you keep a secret, mister?$u#$b#I wanna marry Miss Penny when I grow up.#$e#Just don't tell her, okay?$u",
+					"Sun": "Hi there, mister!",
+					"Sun10": "Hi Uncle @!#$e#Don't tell Mom... but you're my favorite grown-up.$h"
+				},
+			"LogName": "Fix Vincent - Masculine Vanilla Dialogue and Pronouns",
+			"When": 
+				{
+					"Query: {{FixDialogues}} AND {{MascLanguage}}": true
+				}
+		},
+		{
+			"Action": "EditData",
+			"Target": "Characters/Dialogue/Vincent",
+			"Entries":
+				{
+					"Tue6": "Can you keep a secret, miss?$u#$b#I wanna marry Miss Penny when I grow up.#$e#Just don't tell her, okay?$u",
+					"Sun": "Hi there, miss.",
+					"Sun10": "Hi Auntie @!#$e#Don't tell Mom... but you're my favorite grown-up.$h"
+				},
+			"LogName": "Fix Vincent - Feminine Vanilla Dialogue and Pronouns",
+			"When": 
+				{
+					"Query: {{FixDialogues}} AND {{FemLanguage}}": true
+				}
+		}
+	]
+}

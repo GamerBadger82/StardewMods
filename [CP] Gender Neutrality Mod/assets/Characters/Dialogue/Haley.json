@@ -1,0 +1,66 @@
+{
+"Changes":
+	[
+		{
+			"Action": "EditData",
+			"Target": "Characters/Dialogue/Haley",
+			"Entries":
+				{
+					"Introduction": "Oh... You're that new farmer {{Lowercase: {{Random: {{GenericNoun}} }} }}, or whatever. Aren't you?#$e#Huh? Oh... I'm Haley.#$e#Hmm... If it weren't for those horrendous clothes you might actually be cute.",
+					"Tue": "Nice shoes.#$b#Are those made out of plastic?#$e#I'm bored.",
+					"winter_Sun10": "@, you look nice today.#$e#...$h"
+
+				},
+			"LogName": "Fix Haley - Modded Dialogue + Custom Pronouns - Plural",
+			"When": 
+				{
+					"Query: {{FixDialogues}}": true
+				}
+		},
+		{
+			"Action": "EditData",
+			"Target": "Characters/Dialogue/Haley",
+			"Entries":
+				{
+					"Introduction": "Oh... You're that new farmer {{Lowercase: {{Random: {{GenericNoun}} }} }}, or whatever. Aren't you?#$e#Huh? Oh... I'm Haley.#$e#Hmm... If it weren't for those horrendous clothes you might actually be cute.",
+					"Tue": "Nice shoes.#$b#Are those made out of plastic?#$e#I'm bored.",
+					"winter_Sun10": "@, you look nice today.#$e#...$h"
+				},
+			"LogName": "Fix Haley - Modded Dialogue + Custom Pronouns - Singular",
+			"When": 
+				{
+					"Query: {{FixDialogues}} AND {{Singular}}": true
+				}
+		},
+		{
+			"Action": "EditData",
+			"Target": "Characters/Dialogue/Haley",
+			"Entries":
+				{
+					"Introduction": "Oh... you're that new farmer boy, aren't you?#$e#Huh? Oh... I'm Haley.#$e#Hmm... If it weren't for those horrendous clothes you might actually be cute.",
+					"Tue": "Nice shoes.#$b#Are those made out of plastic?#$e#I'm bored.",
+					"winter_Sun10": "@, you look rugged today. I like it.#$e#...$h"
+				},
+			"LogName": "Fix Haley - Masculine Vanilla Dialogue and Pronouns",
+			"When": 
+				{
+					"Query: {{FixDialogues}} AND {{MascLanguage}}": true
+				}
+		},
+		{
+			"Action": "EditData",
+			"Target": "Characters/Dialogue/Haley",
+			"Entries":
+				{
+					"Introduction": "Oh... You're that new farmer girl, or whatever. Aren't you?#$e#Huh? Oh... I'm Haley.#$e#Hmm... If it weren't for those horrendous clothes you might actually be pretty... Actually, nevermind.$h",
+					"Tue": "Nice makeup.#$b#Or wait... Are you even wearing any?#$e#I'm bored.",
+					"winter_Sun10": "@, you look pretty today.#$e#...$h"
+				},
+			"LogName": "Fix Haley - Feminine Vanilla Dialogue and Pronouns",
+			"When": 
+				{
+					"Query: {{FixDialogues}} AND {{FemLanguage}}": true
+				}
+		}
+	]
+}

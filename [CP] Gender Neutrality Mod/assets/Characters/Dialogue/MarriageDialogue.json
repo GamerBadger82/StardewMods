@@ -1,0 +1,73 @@
+{
+"Changes":
+	[
+		{
+			"Action": "EditData",
+			"Target": "Characters/Dialogue/MarriageDialogue",
+			"Entries":
+				{
+					"Rainy_Night_3": "The rain makes our home seem so cozy.$h^It's nights like this I'm glad we have a quality roof.",
+					"Indoor_Night_2": "I'm glad you're home.#$e#I get kind of scared alone at night.$s^I get lonely at night...$s#$e#...$h",
+					"Indoor_Night_Alex": "I feel exhausted... That's a good sign! It means I worked hard enough today.$h",
+					"Indoor_Night_Elliott": "#$c .5#You always smell so good after a day of hard work. Like a cinnamon leaf floating in the summer breeze.#$e#Come here, let me massage your back. You look tense.$l",
+					"Good_3": "Wow, you look really {{Lowercase: {{Random: {{Adjective}} }} }} today!$l"
+				},
+			"LogName": "Fix MarriageDialogue - Modded Dialogue + Custom Pronouns - Plural",
+			"When": 
+				{
+					"Query: {{FixDialogues}}": true
+				}
+		},
+		{
+			"Action": "EditData",
+			"Target": "Characters/Dialogue/MarriageDialogue",
+			"Entries":
+				{
+					"Rainy_Night_3": "The rain makes our home seem so cozy.$h^It's nights like this I'm glad we have a quality roof.",
+					"Indoor_Night_2": "I'm glad you're home.#$e#I get kind of scared alone at night.$s^I get lonely at night...$s#$e#...$h",
+					"Indoor_Night_Alex": "I feel exhausted... That's a good sign! It means I worked hard enough today.$h",
+					"Indoor_Night_Elliott": "#$c .5#You always smell so good after a day of hard work. Like a cinnamon leaf floating in the summer breeze.#$e#Come here, let me massage your back. You look tense.$l",
+					"Good_3": "Wow, you look really {{Lowercase: {{Random: {{Adjective}} }} }} today!$l"
+				},
+			"LogName": "Fix MarriageDialogue - Modded Dialogue + Custom Pronouns - Singular",
+			"When": 
+				{
+					"Query: {{FixDialogues}} AND {{Singular}}": true
+				}
+		},
+		{
+			"Action": "EditData",
+			"Target": "Characters/Dialogue/MarriageDialogue",
+			"Entries":
+				{
+					"Rainy_Night_3": "The rain makes our home seem so cozy.$h",
+					"Indoor_Night_2": "I'm glad you're home.#$e#I get kind of scared alone at night.$s#$e#...$h",
+					"Indoor_Night_Alex": "My arms feel a little restless... How about a nice, deep massage?$l",
+					"Indoor_Night_Elliott": "#$c .5#You always smell so good after a day of hard work. It's your natural musk!#$e#Come here, let me massage your back. You look tense.$l",
+					"Good_3": "Wow, you look really handsome today!$l"
+				},
+			"LogName": "Fix MarriageDialogue - Masculine Vanilla Dialogue and Pronouns",
+			"When": 
+				{
+					"Query: {{FixDialogues}} AND {{MascLanguage}}": true
+				}
+		},
+		{
+			"Action": "EditData",
+			"Target": "Characters/Dialogue/MarriageDialogue",
+			"Entries":
+				{
+					"Rainy_Night_3": "It's nights like this I'm glad we have a quality roof.",
+					"Indoor_Night_2": "I'm glad you're home.#$e#I get lonely at night...$s#$e#...$h",
+					"Indoor_Night_Alex": "I feel exhausted... That's a good sign! It means I worked hard enough today.$h",
+					"Indoor_Night_Elliott": "#$c .5#You smell sweet, my dear. Like a honeycomb drifting on a pool of spice tea.#$e#You smell sweet, my dear. Like a cinnamon leaf floating in the summer breeze.",
+					"Good_3": "Wow, you look beautiful today.$l"
+				},
+			"LogName": "Fix MarriageDialogue - Feminine Vanilla Dialogue and Pronouns",
+			"When": 
+				{
+					"Query: {{FixDialogues}} AND {{FemLanguage}}": true
+				}
+		}
+	]
+}

@@ -1,0 +1,57 @@
+{
+"Changes":
+	[
+		{
+			"Action": "EditData",
+			"Target": "Characters/Dialogue/Emily",
+			"Entries":
+				{
+					"summer_Sun6": "Hi, @! We've become decent friends, haven't we?$h#$e#I'm glad.$h"
+				},
+			"LogName": "Fix Emily - Modded Dialogue + Custom Pronouns - Plural",
+			"When": 
+				{
+					"Query: {{FixDialogues}}": true
+				}
+		},
+		{
+			"Action": "EditData",
+			"Target": "Characters/Dialogue/Emily",
+			"Entries":
+				{
+					"summer_Sun6": "Hi, @! We've become decent friends, haven't we?$h#$e#I'm glad.$h"
+				},
+			"LogName": "Fix Emily - Modded Dialogue + Custom Pronouns - Singular",
+			"When": 
+				{
+					"Query: {{FixDialogues}} AND {{Singular}}": true
+				}
+		},
+		{
+			"Action": "EditData",
+			"Target": "Characters/Dialogue/Emily",
+			"Entries":
+				{
+					"summer_Sun6": "Hi, @! We've become decent friends, haven't we?$h#$e#That's fine with me. You're a cool guy."
+				},
+			"LogName": "Fix Emily - Masculine Vanilla Dialogue and Pronouns",
+			"When": 
+				{
+					"Query: {{FixDialogues}} AND {{MascLanguage}}": true
+				}
+		},
+		{
+			"Action": "EditData",
+			"Target": "Characters/Dialogue/Emily",
+			"Entries":
+				{
+					"summer_Sun6": "Hi, @! We've become decent friends, haven't we?$h#$e#I'm glad.$h"
+				},
+			"LogName": "Fix Emily - Feminine Vanilla Dialogue and Pronouns",
+			"When": 
+				{
+					"Query: {{FixDialogues}} AND {{FemLanguage}}": true
+				}
+		}
+	]
+}

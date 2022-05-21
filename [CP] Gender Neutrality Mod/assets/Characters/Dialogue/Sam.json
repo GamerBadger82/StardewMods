@@ -1,0 +1,65 @@
+{
+"Changes":
+	[
+		{
+			"Action": "EditData",
+			"Target": "Characters/Dialogue/Sam",
+			"Entries":
+				{
+					"Wed10": "Hey @. Um... I just wanted to say... You look nice today.$10",
+					"event_snack1": "{{Random: {{SubjectivePronoun}} }}'re right... That's what happened.$s",
+					"event_snack3": "What!? {{Random: {{SubjectivePronoun}} }}'re lying!$a"
+				},
+			"LogName": "Fix Sam - Modded Dialogue + Custom Pronouns - Plural",
+			"When": 
+				{
+					"Query: {{FixDialogues}}": true
+				}
+		},
+		{
+			"Action": "EditData",
+			"Target": "Characters/Dialogue/Sam",
+			"Entries":
+				{
+					"Wed10": "Hey @. Um... I just wanted to say... You look nice today.$10",
+					"event_snack1": "{{Random: {{SubjectivePronoun}} }}'s right... That's what happened.$s",
+					"event_snack3": "What!? {{Random: {{SubjectivePronoun}} }}'s lying!$a"
+				},
+			"LogName": "Fix Sam - Modded Dialogue + Custom Pronouns - Singular",
+			"When": 
+				{
+					"Query: {{FixDialogues}} AND {{Singular}}": true
+				}
+		},
+		{
+			"Action": "EditData",
+			"Target": "Characters/Dialogue/Sam",
+			"Entries":
+				{
+					"Wed10": "Hey buddy. You look like you're full of energy today!",
+					"event_snack1": "He's right... That's what happened.$s",
+					"event_snack3": "What!? He's lying!$a"
+				},
+			"LogName": "Fix Sam - Masculine Vanilla Dialogue and Pronouns",
+			"When": 
+				{
+					"Query: {{FixDialogues}} AND {{MascLanguage}}": true
+				}
+		},
+		{
+			"Action": "EditData",
+			"Target": "Characters/Dialogue/Sam",
+			"Entries":
+				{
+					"Wed10": "@. Um... I just wanted to say... You look nice today.$10",
+					"event_snack1": "She's right... That's what happened.$s",
+					"event_snack3": "What!? She's lying!$a"
+				},
+			"LogName": "Fix Sam - Feminine Vanilla Dialogue and Pronouns",
+			"When": 
+				{
+					"Query: {{FixDialogues}} AND {{FemLanguage}}": true
+				}
+		}
+	]
+}

@@ -1,0 +1,61 @@
+{
+"Changes":
+	[
+		{
+			"Action": "EditData",
+			"Target": "Characters/Dialogue/Jas",
+			"Entries":
+				{
+					"Mon4": "Hi, {{Random: {{Title}} }} @.#$e#It's fun to live on a farm.$h",
+					"Sat8": "You're always so nice to me, {{Random: {{Title}} }} @$h#$e#Grown-ups are usually mean and boring, but you're different."
+				},
+			"LogName": "Fix Jas - Modded Dialogue + Custom Pronouns - Plural",
+			"When": 
+				{
+					"Query: {{FixDialogues}}": true
+				}
+		},
+		{
+			"Action": "EditData",
+			"Target": "Characters/Dialogue/Jas",
+			"Entries":
+				{
+					"Mon4": "Hi, {{Random: {{Title}} }} @.#$e#It's fun to live on a farm.$h",
+					"Sat8": "You're always so nice to me, {{Random: {{Title}} }} @$h#$e#Grown-ups are usually mean and boring, but you're different."
+				},
+			"LogName": "Fix Jas - Modded Dialogue + Custom Pronouns - Singular",
+			"When": 
+				{
+					"Query: {{FixDialogues}} AND {{Singular}}": true
+				}
+		},
+		{
+			"Action": "EditData",
+			"Target": "Characters/Dialogue/Jas",
+			"Entries":
+				{
+					"Mon4": "Hi, Mr. @.#$e#It's fun to live on a farm.$h",
+					"Sat8": "You're always so nice to me, Mr. @$h#$e#Grown-ups are usually mean and boring, but you're different."
+				},
+			"LogName": "Fix Jas - Masculine Vanilla Dialogue and Pronouns",
+			"When": 
+				{
+					"Query: {{FixDialogues}} AND {{MascLanguage}}": true
+				}
+		},
+		{
+			"Action": "EditData",
+			"Target": "Characters/Dialogue/Jas",
+			"Entries":
+				{
+					"Mon4": "Hi, Ms. @.#$e#It's fun to live on a farm.$h",
+					"Sat8": "You're always so nice to me, Ms. @.$h#$e#Grown-ups are usually mean and boring, but you're different."
+				},
+			"LogName": "Fix Jas - Feminine Vanilla Dialogue and Pronouns",
+			"When": 
+				{
+					"Query: {{FixDialogues}} AND {{FemLanguage}}": true
+				}
+		}
+	]
+}

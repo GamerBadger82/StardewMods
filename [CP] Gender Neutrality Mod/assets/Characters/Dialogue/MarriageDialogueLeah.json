@@ -1,0 +1,57 @@
+{
+"Changes":
+	[
+		{
+			"Action": "EditData",
+			"Target": "Characters/Dialogue/MarriageDialogueLeah",
+			"Entries":
+				{
+					"Good_3": "Wow, you look full of energy today!$l"
+				},
+			"LogName": "Fix MarriageDialogueLeah - Modded Dialogue + Custom Pronouns - Plural",
+			"When": 
+				{
+					"Query: {{FixDialogues}}": true
+				}
+		},
+		{
+			"Action": "EditData",
+			"Target": "Characters/Dialogue/MarriageDialogueLeah",
+			"Entries":
+				{
+					"Good_3": "Wow, you look full of energy today!$l"
+				},
+			"LogName": "Fix MarriageDialogueLeah - Modded Dialogue + Custom Pronouns - Singular",
+			"When": 
+				{
+					"Query: {{FixDialogues}} AND {{Singular}}": true
+				}
+		},
+		{
+			"Action": "EditData",
+			"Target": "Characters/Dialogue/MarriageDialogueLeah",
+			"Entries":
+				{
+					"Good_3": "Wow, you look full of energy today!$l"
+				},
+			"LogName": "Fix MarriageDialogueLeah - Masculine Vanilla Dialogue and Pronouns",
+			"When": 
+				{
+					"Query: {{FixDialogues}} AND {{MascLanguage}}": true
+				}
+		},
+		{
+			"Action": "EditData",
+			"Target": "Characters/Dialogue/MarriageDialogueLeah",
+			"Entries":
+				{
+					"Good_3": "You look beautiful today.$l"
+				},
+			"LogName": "Fix MarriageDialogueLeah - Feminine Vanilla Dialogue and Pronouns",
+			"When": 
+				{
+					"Query: {{FixDialogues}} AND {{FemLanguage}}": true
+				}
+		}
+	]
+}

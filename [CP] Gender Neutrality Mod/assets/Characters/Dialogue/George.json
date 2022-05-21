@@ -1,0 +1,69 @@
+{
+"Changes":
+	[
+		{
+			"Action": "EditData",
+			"Target": "Characters/Dialogue/George",
+			"Entries":
+				{
+					"Wed_inlaw_Alex": "You're part of the family, now. I'm glad that my grandson found such a nice {{Lowercase: {{Random: {{SpouseNoun}} }} }}.",
+					"Wed10_inlaw_Alex": "You're part of the family, now... and I couldn't be more proud.",
+					"Thu": "I can't talk right now, {{Lowercase: {{Random: {{ElderInformalNoun}} }} }}.#$e#My favorite program is on.",
+					"Fri10": "You know, I really have been a grumpy old man to everyone. But now I feel like I'm softening up like an old ripe fruit. Hehe!$h#$e#Take care, {{Lowercase: {{Random: {{ElderInformalNoun}} }} }}."
+				},
+			"LogName": "Fix George - Modded Dialogue + Custom Pronouns - Plural",
+			"When": 
+				{
+					"Query: {{FixDialogues}}": true
+				}
+		},
+		{
+			"Action": "EditData",
+			"Target": "Characters/Dialogue/George",
+			"Entries":
+				{
+					"Wed_inlaw_Alex": "You're part of the family, now. I'm glad that my grandson found such a nice {{Lowercase: {{Random: {{SpouseNoun}} }} }}.",
+					"Wed10_inlaw_Alex": "You're part of the family, now... and I couldn't be more proud.",
+					"Thu": "I can't talk right now, {{Lowercase: {{Random: {{ElderInformalNoun}} }} }}.#$e#My favorite program is on.",
+					"Fri10": "You know, I really have been a grumpy old man to everyone. But now I feel like I'm softening up like an old ripe fruit. Hehe!$h#$e#Take care, {{Lowercase: {{Random: {{ElderInformalNoun}} }} }}."
+				},
+			"LogName": "Fix George - Modded Dialogue + Custom Pronouns - Singular",
+			"When": 
+				{
+					"Query: {{FixDialogues}} AND {{Singular}}": true
+				}
+		},
+		{
+			"Action": "EditData",
+			"Target": "Characters/Dialogue/George",
+			"Entries":
+				{
+					"Wed_inlaw_Alex": "How can two men get married? It's unnatural... Hmmph. I guess I'm just \"old fashioned\"...",
+					"Wed10_inlaw_Alex": "I'll admit, I thought it was... strange... for two men to be together. But you're such a nice young man, and I know you two are in love... I've changed my mind.",
+					"Thu": "I can't talk right now, young man.#$e#My favorite program is on.",
+					"Fri10": "You know, I really have been a grumpy old man to everyone. But now I feel like I'm softening up like an old ripe fruit. Hehe!$h#$e#Take care, son."
+				},
+			"LogName": "Fix George - Masculine Vanilla Dialogue and Pronouns",
+			"When": 
+				{
+					"Query: {{FixDialogues}} AND {{MascLanguage}}": true
+				}
+		},
+		{
+			"Action": "EditData",
+			"Target": "Characters/Dialogue/George",
+			"Entries":
+				{
+					"Wed_inlaw_Alex": "You're part of the family, now. I'm glad that my grandson found such a nice wife.",
+					"Wed10_inlaw_Alex": "You're part of the family, now... and I couldn't be more proud.",
+					"Thu": "I can't talk right now, miss.#$e#My favorite program is on.",
+					"Fri10": "You know, I really have been a grumpy old man to everyone. But now I feel like I'm softening up like an old ripe fruit. Hehe!$h#$e#Take care, hun."
+				},
+			"LogName": "Fix George - Feminine Vanilla Dialogue and Pronouns",
+			"When": 
+				{
+					"Query: {{FixDialogues}} AND {{FemLanguage}}": true
+				}
+		}
+	]
+}

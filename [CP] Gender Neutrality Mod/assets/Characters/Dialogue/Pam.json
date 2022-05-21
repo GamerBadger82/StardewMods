@@ -1,0 +1,65 @@
+{
+"Changes":
+	[
+		{
+			"Action": "EditData",
+			"Target": "Characters/Dialogue/Pam",
+			"Entries":
+				{
+					"MovieInvitation": "Date night with ol' Pam, huh? Hah!$h#$b#Sure thing, kid... I'll see you there.",
+					"summer_Tue2": "Oh, it's {{Random: {{Title}} }} @.#$e#Do you need my help or something?",
+					"summer_Fri": "...Yeah?#$e#You're a fine lookin' young {{Lowercase: {{Random: {{AdultAntiquatedNoun}} }} }}. Why're you wastin' your time talkin' to an old girl like me?"
+				},
+			"LogName": "Fix Pam - Modded Dialogue + Custom Pronouns - Plural",
+			"When": 
+				{
+					"Query: {{FixDialogues}}": true
+				}
+		},
+		{
+			"Action": "EditData",
+			"Target": "Characters/Dialogue/Pam",
+			"Entries":
+				{
+					"MovieInvitation": "Date night with ol' Pam, huh? Hah!$h#$b#Sure thing, kid... I'll see you there.",
+					"summer_Tue2": "Oh, it's {{Random: {{Title}} }} @.#$e#Do you need my help or something?",
+					"summer_Fri": "...Yeah?#$e#You're a fine lookin' {{Lowercase: {{Random: {{AdultAntiquatedNoun}} }} }}. Why're you wastin' your time talkin' to an old girl like me?"
+				},
+			"LogName": "Fix Pam - Modded Dialogue + Custom Pronouns - Singular",
+			"When": 
+				{
+					"Query: {{FixDialogues}} AND {{Singular}}": true
+				}
+		},
+		{
+			"Action": "EditData",
+			"Target": "Characters/Dialogue/Pam",
+			"Entries":
+				{
+					"MovieInvitation": "Date night with ol' Pam, huh? Hah!$h$h#$b#Sure thing, kid... I'll see you there.",
+					"summer_Tue2": "Oh, it's Mr. @.#$e#Do you need my help or something?",
+					"summer_Fri": "...Yeah?#$e#You're a fine lookin' young man. Why're you wastin' your time talkin' to an old girl like me?"
+				},
+			"LogName": "Fix Pam - Masculine Vanilla Dialogue and Pronouns",
+			"When": 
+				{
+					"Query: {{FixDialogues}} AND {{MascLanguage}}": true
+				}
+		},
+		{
+			"Action": "EditData",
+			"Target": "Characters/Dialogue/Pam",
+			"Entries":
+				{
+					"MovieInvitation": "Ladies night with ol' Pam, huh? Hah!$h#$b#Sure thing, kid... I'll see you there.",
+					"summer_Tue2": "Oh it's Miss @.#$e#Do you need my help or something?",
+					"summer_Fri": "...Yeah?#$e#You're a pretty gal. What're you wastin' your time talkin' to someone like me for?"
+				},
+			"LogName": "Fix Pam - Feminine Vanilla Dialogue and Pronouns",
+			"When": 
+				{
+					"Query: {{FixDialogues}} AND {{FemLanguage}}": true
+				}
+		}
+	]
+}
