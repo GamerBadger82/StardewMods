@@ -1,0 +1,8 @@
+{
+  "CalendarKeyBinding": "B",
+  "QuestBoardKeyBinding": "H",
+  "CalendarOffsetFromMenu": "-100, 0",
+  "QuestOffsetFromMenu": "-200, 0",
+  "EnableInventoryCalendarButton": true,
+  "EnableInventoryQuestButton": true
+}

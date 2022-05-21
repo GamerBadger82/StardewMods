@@ -12,7 +12,7 @@
   "AutoDigRadius": 1,
   "FindHoeFromInventory": true,
   "AutoAnimalDoor": true,
-  "AutoFishing": false,
+  "AutoFishing": true,
   "CpuThresholdFishing": 0.2,
   "AutoReelRod": true,
   "ThrowPower": 1.0,
@@ -53,7 +53,7 @@
     "X": 100,
     "Y": 100
   },
-  "UnifyFlowerColors": false,
+  "UnifyFlowerColors": true,
   "JazzColor": {
     "B": 255,
     "G": 255,
@@ -98,8 +98,8 @@
   "AutoShearingAndMilking": true,
   "AnimalHarvestRadius": 1,
   "RadiusFarmCleanup": 1,
-  "CutWeeds": false,
-  "BreakRocks": false,
-  "ChopTwigs": false,
+  "CutWeeds": true,
+  "BreakRocks": true,
+  "ChopTwigs": true,
   "DisableConfigLimitation": false
 }

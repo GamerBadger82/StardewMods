@@ -1,0 +1,41 @@
+{
+  "Version": "1.5.2-unofficial.2-borthain",
+  "ChestEntries": [
+    {
+      "Address": {
+        "LocationType": "Normal",
+        "LocationName": "Farm",
+        "BuildingName": "",
+        "Tile": "0, -50"
+      },
+      "AcceptedItems": {}
+    },
+    {
+      "Address": {
+        "LocationType": "Normal",
+        "LocationName": "Farm",
+        "BuildingName": "",
+        "Tile": "67, 17"
+      },
+      "AcceptedItems": {}
+    },
+    {
+      "Address": {
+        "LocationType": "Normal",
+        "LocationName": "SeedShop",
+        "BuildingName": "",
+        "Tile": "2, 26"
+      },
+      "AcceptedItems": {}
+    },
+    {
+      "Address": {
+        "LocationType": "Normal",
+        "LocationName": "Mine",
+        "BuildingName": "",
+        "Tile": "16, 8"
+      },
+      "AcceptedItems": {}
+    }
+  ]
+}

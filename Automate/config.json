@@ -1,5 +1,5 @@
 {
-  "PullGemstonesFromJunimoHuts": false,
+  "PullGemstonesFromJunimoHuts": true,
   "AutomationInterval": 60,
   "Controls": {
     "ToggleOverlay": "U"
@@ -11,5 +11,14 @@
     "BetterJunimos": true,
     "WarnForMissingBridgeMod": true
   },
-  "MachineOverrides": {}
+  "MachineOverrides": {
+    "ShippingBin": {
+      "Priority": 0,
+      "Enabled": true
+    },
+    "MiniShippingBin": {
+      "Priority": 0,
+      "Enabled": true
+    }
+  }
 }

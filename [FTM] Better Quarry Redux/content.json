@@ -37,6 +37,8 @@
           "WeatherYesterday": [],
           "WeatherToday": [],
           "WeatherTomorrow": [],
+          "CPConditions": {},
+          "EPUPreconditions": [],
           "LimitedNumberOfSpawns": null
         },
         "DaysUntilSpawnsExpire": null
@@ -103,7 +105,6 @@
     "FarmTypes": [],
     "FarmerNames": [],
     "SaveFileNames": [],
-    "OtherMods": {},
-    "ResetMainDataFolder": false
+    "OtherMods": {}
   }
 }

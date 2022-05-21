@@ -78,6 +78,7 @@
           "WeatherYesterday": [],
           "WeatherToday": [],
           "WeatherTomorrow": [],
+          "CPConditions": {},
           "EPUPreconditions": [
             "e 65360187"
           ],
@@ -132,6 +133,7 @@
           "WeatherYesterday": [],
           "WeatherToday": [],
           "WeatherTomorrow": [],
+          "CPConditions": {},
           "EPUPreconditions": [],
           "LimitedNumberOfSpawns": null
         },
@@ -193,6 +195,7 @@
           "WeatherYesterday": [],
           "WeatherToday": [],
           "WeatherTomorrow": [],
+          "CPConditions": {},
           "EPUPreconditions": [],
           "LimitedNumberOfSpawns": null
         },
@@ -241,6 +244,7 @@
           "WeatherYesterday": [],
           "WeatherToday": [],
           "WeatherTomorrow": [],
+          "CPConditions": {},
           "EPUPreconditions": [],
           "LimitedNumberOfSpawns": null
         },
@@ -295,6 +299,7 @@
           "WeatherYesterday": [],
           "WeatherToday": [],
           "WeatherTomorrow": [],
+          "CPConditions": {},
           "EPUPreconditions": [],
           "LimitedNumberOfSpawns": null
         },
@@ -339,6 +344,7 @@
           "WeatherYesterday": [],
           "WeatherToday": [],
           "WeatherTomorrow": [],
+          "CPConditions": {},
           "EPUPreconditions": [],
           "LimitedNumberOfSpawns": 1
         },
@@ -386,6 +392,7 @@
           "WeatherYesterday": [],
           "WeatherToday": [],
           "WeatherTomorrow": [],
+          "CPConditions": {},
           "EPUPreconditions": [],
           "LimitedNumberOfSpawns": null
         },
@@ -436,6 +443,7 @@
           "WeatherYesterday": [],
           "WeatherToday": [],
           "WeatherTomorrow": [],
+          "CPConditions": {},
           "EPUPreconditions": [],
           "LimitedNumberOfSpawns": 1
         },
@@ -484,6 +492,7 @@
           "WeatherYesterday": [],
           "WeatherToday": [],
           "WeatherTomorrow": [],
+          "CPConditions": {},
           "EPUPreconditions": [],
           "LimitedNumberOfSpawns": null
         },
@@ -525,6 +534,7 @@
           "WeatherYesterday": [],
           "WeatherToday": [],
           "WeatherTomorrow": [],
+          "CPConditions": {},
           "EPUPreconditions": [],
           "LimitedNumberOfSpawns": null
         },
@@ -564,6 +574,7 @@
           "WeatherYesterday": [],
           "WeatherToday": [],
           "WeatherTomorrow": [],
+          "CPConditions": {},
           "EPUPreconditions": [],
           "LimitedNumberOfSpawns": null
         },
@@ -603,6 +614,7 @@
           "WeatherYesterday": [],
           "WeatherToday": [],
           "WeatherTomorrow": [],
+          "CPConditions": {},
           "EPUPreconditions": [],
           "LimitedNumberOfSpawns": null
         },
@@ -644,6 +656,7 @@
           "WeatherYesterday": [],
           "WeatherToday": [],
           "WeatherTomorrow": [],
+          "CPConditions": {},
           "EPUPreconditions": [],
           "LimitedNumberOfSpawns": null
         },
@@ -683,6 +696,7 @@
           "WeatherYesterday": [],
           "WeatherToday": [],
           "WeatherTomorrow": [],
+          "CPConditions": {},
           "EPUPreconditions": [],
           "LimitedNumberOfSpawns": null
         },
@@ -722,6 +736,7 @@
           "WeatherYesterday": [],
           "WeatherToday": [],
           "WeatherTomorrow": [],
+          "CPConditions": {},
           "EPUPreconditions": [],
           "LimitedNumberOfSpawns": null
         },
@@ -761,6 +776,7 @@
           "WeatherYesterday": [],
           "WeatherToday": [],
           "WeatherTomorrow": [],
+          "CPConditions": {},
           "EPUPreconditions": [],
           "LimitedNumberOfSpawns": null
         },
@@ -805,6 +821,7 @@
           "WeatherYesterday": [],
           "WeatherToday": [],
           "WeatherTomorrow": [],
+          "CPConditions": {},
           "EPUPreconditions": [],
           "LimitedNumberOfSpawns": 1
         },
@@ -852,6 +869,7 @@
           "WeatherYesterday": [],
           "WeatherToday": [],
           "WeatherTomorrow": [],
+          "CPConditions": {},
           "EPUPreconditions": [],
           "LimitedNumberOfSpawns": 1
         },
@@ -899,6 +917,7 @@
           "WeatherYesterday": [],
           "WeatherToday": [],
           "WeatherTomorrow": [],
+          "CPConditions": {},
           "EPUPreconditions": [],
           "LimitedNumberOfSpawns": 1
         },
@@ -943,6 +962,7 @@
           "WeatherYesterday": [],
           "WeatherToday": [],
           "WeatherTomorrow": [],
+          "CPConditions": {},
           "EPUPreconditions": [],
           "LimitedNumberOfSpawns": 1
         },
@@ -989,6 +1009,7 @@
           "WeatherYesterday": [],
           "WeatherToday": [],
           "WeatherTomorrow": [],
+          "CPConditions": {},
           "EPUPreconditions": [],
           "LimitedNumberOfSpawns": 1
         },
@@ -1099,6 +1120,7 @@
           "WeatherYesterday": [],
           "WeatherToday": [],
           "WeatherTomorrow": [],
+          "CPConditions": {},
           "EPUPreconditions": [],
           "LimitedNumberOfSpawns": null
         },
@@ -1157,6 +1179,7 @@
           "WeatherYesterday": [],
           "WeatherToday": [],
           "WeatherTomorrow": [],
+          "CPConditions": {},
           "EPUPreconditions": [],
           "LimitedNumberOfSpawns": null
         },
@@ -1218,6 +1241,7 @@
           "WeatherYesterday": [],
           "WeatherToday": [],
           "WeatherTomorrow": [],
+          "CPConditions": {},
           "EPUPreconditions": [],
           "LimitedNumberOfSpawns": null
         },
@@ -1262,6 +1286,7 @@
           "WeatherYesterday": [],
           "WeatherToday": [],
           "WeatherTomorrow": [],
+          "CPConditions": {},
           "EPUPreconditions": [],
           "LimitedNumberOfSpawns": 1
         },
@@ -1306,6 +1331,7 @@
           "WeatherYesterday": [],
           "WeatherToday": [],
           "WeatherTomorrow": [],
+          "CPConditions": {},
           "EPUPreconditions": [],
           "LimitedNumberOfSpawns": 1
         },
@@ -1350,6 +1376,7 @@
           "WeatherYesterday": [],
           "WeatherToday": [],
           "WeatherTomorrow": [],
+          "CPConditions": {},
           "EPUPreconditions": [],
           "LimitedNumberOfSpawns": 1
         },
@@ -1412,6 +1439,7 @@
           "WeatherYesterday": [],
           "WeatherToday": [],
           "WeatherTomorrow": [],
+          "CPConditions": {},
           "EPUPreconditions": [],
           "LimitedNumberOfSpawns": null
         },
@@ -1456,6 +1484,7 @@
           "WeatherYesterday": [],
           "WeatherToday": [],
           "WeatherTomorrow": [],
+          "CPConditions": {},
           "EPUPreconditions": [],
           "LimitedNumberOfSpawns": 1
         },
@@ -1500,6 +1529,7 @@
           "WeatherYesterday": [],
           "WeatherToday": [],
           "WeatherTomorrow": [],
+          "CPConditions": {},
           "EPUPreconditions": [],
           "LimitedNumberOfSpawns": 1
         },
@@ -1546,6 +1576,7 @@
           "WeatherYesterday": [],
           "WeatherToday": [],
           "WeatherTomorrow": [],
+          "CPConditions": {},
           "EPUPreconditions": [],
           "LimitedNumberOfSpawns": 3
         },
@@ -1590,6 +1621,7 @@
           "WeatherYesterday": [],
           "WeatherToday": [],
           "WeatherTomorrow": [],
+          "CPConditions": {},
           "EPUPreconditions": [],
           "LimitedNumberOfSpawns": 1
         },
@@ -1638,6 +1670,7 @@
           "WeatherYesterday": [],
           "WeatherToday": [],
           "WeatherTomorrow": [],
+          "CPConditions": {},
           "EPUPreconditions": [],
           "LimitedNumberOfSpawns": null
         },
@@ -1686,6 +1719,7 @@
           "WeatherYesterday": [],
           "WeatherToday": [],
           "WeatherTomorrow": [],
+          "CPConditions": {},
           "EPUPreconditions": [],
           "LimitedNumberOfSpawns": null
         },
@@ -1727,6 +1761,7 @@
           "WeatherYesterday": [],
           "WeatherToday": [],
           "WeatherTomorrow": [],
+          "CPConditions": {},
           "EPUPreconditions": [],
           "LimitedNumberOfSpawns": null
         },
@@ -1777,6 +1812,7 @@
           "WeatherYesterday": [],
           "WeatherToday": [],
           "WeatherTomorrow": [],
+          "CPConditions": {},
           "EPUPreconditions": [],
           "LimitedNumberOfSpawns": null
         },
@@ -1829,6 +1865,7 @@
           "WeatherYesterday": [],
           "WeatherToday": [],
           "WeatherTomorrow": [],
+          "CPConditions": {},
           "EPUPreconditions": [],
           "LimitedNumberOfSpawns": null
         },
@@ -1873,6 +1910,7 @@
           "WeatherYesterday": [],
           "WeatherToday": [],
           "WeatherTomorrow": [],
+          "CPConditions": {},
           "EPUPreconditions": [],
           "LimitedNumberOfSpawns": null
         },
@@ -1917,6 +1955,7 @@
           "WeatherYesterday": [],
           "WeatherToday": [],
           "WeatherTomorrow": [],
+          "CPConditions": {},
           "EPUPreconditions": [],
           "LimitedNumberOfSpawns": 1
         },
@@ -1961,6 +2000,7 @@
           "WeatherYesterday": [],
           "WeatherToday": [],
           "WeatherTomorrow": [],
+          "CPConditions": {},
           "EPUPreconditions": [],
           "LimitedNumberOfSpawns": 1
         },
@@ -2005,6 +2045,7 @@
           "WeatherYesterday": [],
           "WeatherToday": [],
           "WeatherTomorrow": [],
+          "CPConditions": {},
           "EPUPreconditions": [],
           "LimitedNumberOfSpawns": 1
         },
@@ -2049,6 +2090,7 @@
           "WeatherYesterday": [],
           "WeatherToday": [],
           "WeatherTomorrow": [],
+          "CPConditions": {},
           "EPUPreconditions": [
             "e 1090508"
           ],
@@ -2088,6 +2130,7 @@
           "WeatherYesterday": [],
           "WeatherToday": [],
           "WeatherTomorrow": [],
+          "CPConditions": {},
           "EPUPreconditions": [],
           "LimitedNumberOfSpawns": null
         },
@@ -2142,6 +2185,7 @@
           "WeatherYesterday": [],
           "WeatherToday": [],
           "WeatherTomorrow": [],
+          "CPConditions": {},
           "EPUPreconditions": [],
           "LimitedNumberOfSpawns": 8
         },
@@ -2188,6 +2232,7 @@
           "WeatherYesterday": [],
           "WeatherToday": [],
           "WeatherTomorrow": [],
+          "CPConditions": {},
           "EPUPreconditions": [],
           "LimitedNumberOfSpawns": null
         },
@@ -2326,6 +2371,7 @@
           "WeatherYesterday": [],
           "WeatherToday": [],
           "WeatherTomorrow": [],
+          "CPConditions": {},
           "EPUPreconditions": [],
           "LimitedNumberOfSpawns": null
         },
@@ -2390,6 +2436,7 @@
           "WeatherYesterday": [],
           "WeatherToday": [],
           "WeatherTomorrow": [],
+          "CPConditions": {},
           "EPUPreconditions": [],
           "LimitedNumberOfSpawns": 1
         },
@@ -2454,6 +2501,7 @@
           "WeatherYesterday": [],
           "WeatherToday": [],
           "WeatherTomorrow": [],
+          "CPConditions": {},
           "EPUPreconditions": [],
           "LimitedNumberOfSpawns": 1
         },
@@ -2510,6 +2558,7 @@
           "WeatherYesterday": [],
           "WeatherToday": [],
           "WeatherTomorrow": [],
+          "CPConditions": {},
           "EPUPreconditions": [],
           "LimitedNumberOfSpawns": null
         },
@@ -2556,6 +2605,7 @@
           "WeatherYesterday": [],
           "WeatherToday": [],
           "WeatherTomorrow": [],
+          "CPConditions": {},
           "EPUPreconditions": [],
           "LimitedNumberOfSpawns": null
         },
@@ -2605,6 +2655,7 @@
           "WeatherYesterday": [],
           "WeatherToday": [],
           "WeatherTomorrow": [],
+          "CPConditions": {},
           "EPUPreconditions": [],
           "LimitedNumberOfSpawns": null
         },
@@ -2651,6 +2702,7 @@
           "WeatherYesterday": [],
           "WeatherToday": [],
           "WeatherTomorrow": [],
+          "CPConditions": {},
           "EPUPreconditions": [],
           "LimitedNumberOfSpawns": null
         },
@@ -2727,6 +2779,7 @@
           "WeatherYesterday": [],
           "WeatherToday": [],
           "WeatherTomorrow": [],
+          "CPConditions": {},
           "EPUPreconditions": [],
           "LimitedNumberOfSpawns": null
         },
@@ -2766,6 +2819,7 @@
           "WeatherYesterday": [],
           "WeatherToday": [],
           "WeatherTomorrow": [],
+          "CPConditions": {},
           "EPUPreconditions": [
             "k 611439"
           ],
@@ -2806,6 +2860,7 @@
           "WeatherYesterday": [],
           "WeatherToday": [],
           "WeatherTomorrow": [],
+          "CPConditions": {},
           "EPUPreconditions": [],
           "LimitedNumberOfSpawns": null
         },
@@ -2850,6 +2905,7 @@
           "WeatherYesterday": [],
           "WeatherToday": [],
           "WeatherTomorrow": [],
+          "CPConditions": {},
           "EPUPreconditions": [
             "k 65360185"
           ],
@@ -2911,6 +2967,7 @@
           "WeatherYesterday": [],
           "WeatherToday": [],
           "WeatherTomorrow": [],
+          "CPConditions": {},
           "EPUPreconditions": [
             "k 65360185"
           ],
@@ -2967,6 +3024,7 @@
           "WeatherYesterday": [],
           "WeatherToday": [],
           "WeatherTomorrow": [],
+          "CPConditions": {},
           "EPUPreconditions": [
             "k 65360185"
           ],
@@ -3011,6 +3069,7 @@
           "WeatherYesterday": [],
           "WeatherToday": [],
           "WeatherTomorrow": [],
+          "CPConditions": {},
           "EPUPreconditions": [],
           "LimitedNumberOfSpawns": null
         },
@@ -3053,6 +3112,7 @@
           "WeatherYesterday": [],
           "WeatherToday": [],
           "WeatherTomorrow": [],
+          "CPConditions": {},
           "EPUPreconditions": [],
           "LimitedNumberOfSpawns": null
         },
@@ -3091,6 +3151,7 @@
           "WeatherYesterday": [],
           "WeatherToday": [],
           "WeatherTomorrow": [],
+          "CPConditions": {},
           "EPUPreconditions": [],
           "LimitedNumberOfSpawns": null
         },
@@ -3129,6 +3190,7 @@
           "WeatherYesterday": [],
           "WeatherToday": [],
           "WeatherTomorrow": [],
+          "CPConditions": {},
           "EPUPreconditions": [],
           "LimitedNumberOfSpawns": null
         },
@@ -3180,6 +3242,7 @@
           "WeatherYesterday": [],
           "WeatherToday": [],
           "WeatherTomorrow": [],
+          "CPConditions": {},
           "EPUPreconditions": [],
           "LimitedNumberOfSpawns": null
         },
@@ -3226,6 +3289,7 @@
           "WeatherYesterday": [],
           "WeatherToday": [],
           "WeatherTomorrow": [],
+          "CPConditions": {},
           "EPUPreconditions": [],
           "LimitedNumberOfSpawns": null
         },
@@ -3272,6 +3336,7 @@
           "WeatherYesterday": [],
           "WeatherToday": [],
           "WeatherTomorrow": [],
+          "CPConditions": {},
           "EPUPreconditions": [],
           "LimitedNumberOfSpawns": null
         },
@@ -3316,6 +3381,7 @@
           "WeatherYesterday": [],
           "WeatherToday": [],
           "WeatherTomorrow": [],
+          "CPConditions": {},
           "EPUPreconditions": [],
           "LimitedNumberOfSpawns": null
         },
@@ -3367,6 +3433,7 @@
           "WeatherYesterday": [],
           "WeatherToday": [],
           "WeatherTomorrow": [],
+          "CPConditions": {},
           "EPUPreconditions": [],
           "LimitedNumberOfSpawns": null
         },
@@ -3411,6 +3478,7 @@
           "WeatherYesterday": [],
           "WeatherToday": [],
           "WeatherTomorrow": [],
+          "CPConditions": {},
           "EPUPreconditions": [],
           "LimitedNumberOfSpawns": null
         },
@@ -3461,6 +3529,7 @@
           "WeatherYesterday": [],
           "WeatherToday": [],
           "WeatherTomorrow": [],
+          "CPConditions": {},
           "EPUPreconditions": [],
           "LimitedNumberOfSpawns": null
         },
@@ -3600,6 +3669,7 @@
           "WeatherYesterday": [],
           "WeatherToday": [],
           "WeatherTomorrow": [],
+          "CPConditions": {},
           "EPUPreconditions": [],
           "LimitedNumberOfSpawns": null
         },
@@ -3651,6 +3721,7 @@
           "WeatherYesterday": [],
           "WeatherToday": [],
           "WeatherTomorrow": [],
+          "CPConditions": {},
           "EPUPreconditions": [],
           "LimitedNumberOfSpawns": null
         },
@@ -3695,6 +3766,7 @@
           "WeatherYesterday": [],
           "WeatherToday": [],
           "WeatherTomorrow": [],
+          "CPConditions": {},
           "EPUPreconditions": [],
           "LimitedNumberOfSpawns": null
         },
@@ -3769,6 +3841,7 @@
           "WeatherYesterday": [],
           "WeatherToday": [],
           "WeatherTomorrow": [],
+          "CPConditions": {},
           "EPUPreconditions": [],
           "LimitedNumberOfSpawns": null
         },
@@ -3823,6 +3896,7 @@
           "WeatherYesterday": [],
           "WeatherToday": [],
           "WeatherTomorrow": [],
+          "CPConditions": {},
           "EPUPreconditions": [],
           "LimitedNumberOfSpawns": null
         },
@@ -3873,6 +3947,7 @@
           "WeatherYesterday": [],
           "WeatherToday": [],
           "WeatherTomorrow": [],
+          "CPConditions": {},
           "EPUPreconditions": [],
           "LimitedNumberOfSpawns": null
         },
@@ -3923,6 +3998,7 @@
           "WeatherYesterday": [],
           "WeatherToday": [],
           "WeatherTomorrow": [],
+          "CPConditions": {},
           "EPUPreconditions": [],
           "LimitedNumberOfSpawns": null
         },
@@ -3976,6 +4052,7 @@
           "WeatherYesterday": [],
           "WeatherToday": [],
           "WeatherTomorrow": [],
+          "CPConditions": {},
           "EPUPreconditions": [],
           "LimitedNumberOfSpawns": null
         },
@@ -4029,6 +4106,7 @@
           "WeatherYesterday": [],
           "WeatherToday": [],
           "WeatherTomorrow": [],
+          "CPConditions": {},
           "EPUPreconditions": [],
           "LimitedNumberOfSpawns": null
         },
@@ -4076,6 +4154,7 @@
           "WeatherYesterday": [],
           "WeatherToday": [],
           "WeatherTomorrow": [],
+          "CPConditions": {},
           "EPUPreconditions": [],
           "LimitedNumberOfSpawns": null
         },
@@ -4131,6 +4210,7 @@
           "WeatherYesterday": [],
           "WeatherToday": [],
           "WeatherTomorrow": [],
+          "CPConditions": {},
           "EPUPreconditions": [],
           "LimitedNumberOfSpawns": null
         },
@@ -4188,6 +4268,7 @@
           "WeatherYesterday": [],
           "WeatherToday": [],
           "WeatherTomorrow": [],
+          "CPConditions": {},
           "EPUPreconditions": [],
           "LimitedNumberOfSpawns": null
         },
@@ -4238,6 +4319,7 @@
           "WeatherYesterday": [],
           "WeatherToday": [],
           "WeatherTomorrow": [],
+          "CPConditions": {},
           "EPUPreconditions": [],
           "LimitedNumberOfSpawns": null
         },
@@ -4332,6 +4414,7 @@
           "WeatherYesterday": [],
           "WeatherToday": [],
           "WeatherTomorrow": [],
+          "CPConditions": {},
           "EPUPreconditions": [],
           "LimitedNumberOfSpawns": null
         },
@@ -4423,6 +4506,7 @@
           "WeatherYesterday": [],
           "WeatherToday": [],
           "WeatherTomorrow": [],
+          "CPConditions": {},
           "EPUPreconditions": [],
           "LimitedNumberOfSpawns": null
         },
@@ -4514,6 +4598,7 @@
           "WeatherYesterday": [],
           "WeatherToday": [],
           "WeatherTomorrow": [],
+          "CPConditions": {},
           "EPUPreconditions": [],
           "LimitedNumberOfSpawns": null
         },
@@ -4605,6 +4690,7 @@
           "WeatherYesterday": [],
           "WeatherToday": [],
           "WeatherTomorrow": [],
+          "CPConditions": {},
           "EPUPreconditions": [],
           "LimitedNumberOfSpawns": null
         },
@@ -4658,6 +4744,7 @@
           "WeatherYesterday": [],
           "WeatherToday": [],
           "WeatherTomorrow": [],
+          "CPConditions": {},
           "EPUPreconditions": [],
           "LimitedNumberOfSpawns": null
         },
@@ -4709,6 +4796,7 @@
           "WeatherYesterday": [],
           "WeatherToday": [],
           "WeatherTomorrow": [],
+          "CPConditions": {},
           "EPUPreconditions": [],
           "LimitedNumberOfSpawns": null
         },
@@ -4765,6 +4853,7 @@
             "Storm"
           ],
           "WeatherTomorrow": [],
+          "CPConditions": {},
           "EPUPreconditions": [],
           "LimitedNumberOfSpawns": null
         },
@@ -4818,6 +4907,7 @@
           "WeatherYesterday": [],
           "WeatherToday": [],
           "WeatherTomorrow": [],
+          "CPConditions": {},
           "EPUPreconditions": [],
           "LimitedNumberOfSpawns": null
         },
@@ -4871,6 +4961,7 @@
           "WeatherYesterday": [],
           "WeatherToday": [],
           "WeatherTomorrow": [],
+          "CPConditions": {},
           "EPUPreconditions": [],
           "LimitedNumberOfSpawns": null
         },
@@ -4924,6 +5015,7 @@
           "WeatherYesterday": [],
           "WeatherToday": [],
           "WeatherTomorrow": [],
+          "CPConditions": {},
           "EPUPreconditions": [],
           "LimitedNumberOfSpawns": null
         },
@@ -4977,6 +5069,7 @@
           "WeatherYesterday": [],
           "WeatherToday": [],
           "WeatherTomorrow": [],
+          "CPConditions": {},
           "EPUPreconditions": [],
           "LimitedNumberOfSpawns": null
         },
@@ -5087,6 +5180,7 @@
           "WeatherYesterday": [],
           "WeatherToday": [],
           "WeatherTomorrow": [],
+          "CPConditions": {},
           "EPUPreconditions": [],
           "LimitedNumberOfSpawns": null
         },
@@ -5197,6 +5291,7 @@
           "WeatherYesterday": [],
           "WeatherToday": [],
           "WeatherTomorrow": [],
+          "CPConditions": {},
           "EPUPreconditions": [],
           "LimitedNumberOfSpawns": null
         },
@@ -5307,6 +5402,7 @@
           "WeatherYesterday": [],
           "WeatherToday": [],
           "WeatherTomorrow": [],
+          "CPConditions": {},
           "EPUPreconditions": [],
           "LimitedNumberOfSpawns": null
         },
@@ -5417,6 +5513,7 @@
           "WeatherYesterday": [],
           "WeatherToday": [],
           "WeatherTomorrow": [],
+          "CPConditions": {},
           "EPUPreconditions": [],
           "LimitedNumberOfSpawns": null
         },
@@ -5508,6 +5605,7 @@
           "WeatherYesterday": [],
           "WeatherToday": [],
           "WeatherTomorrow": [],
+          "CPConditions": {},
           "EPUPreconditions": [],
           "LimitedNumberOfSpawns": null
         },
@@ -5599,6 +5697,7 @@
           "WeatherYesterday": [],
           "WeatherToday": [],
           "WeatherTomorrow": [],
+          "CPConditions": {},
           "EPUPreconditions": [],
           "LimitedNumberOfSpawns": null
         },
@@ -5690,6 +5789,7 @@
           "WeatherYesterday": [],
           "WeatherToday": [],
           "WeatherTomorrow": [],
+          "CPConditions": {},
           "EPUPreconditions": [],
           "LimitedNumberOfSpawns": null
         },
@@ -5781,6 +5881,7 @@
           "WeatherYesterday": [],
           "WeatherToday": [],
           "WeatherTomorrow": [],
+          "CPConditions": {},
           "EPUPreconditions": [],
           "LimitedNumberOfSpawns": null
         },
@@ -5876,6 +5977,7 @@
           "WeatherYesterday": [],
           "WeatherToday": [],
           "WeatherTomorrow": [],
+          "CPConditions": {},
           "EPUPreconditions": [],
           "LimitedNumberOfSpawns": null
         },
@@ -5971,6 +6073,7 @@
           "WeatherYesterday": [],
           "WeatherToday": [],
           "WeatherTomorrow": [],
+          "CPConditions": {},
           "EPUPreconditions": [],
           "LimitedNumberOfSpawns": null
         },
@@ -6066,6 +6169,7 @@
           "WeatherYesterday": [],
           "WeatherToday": [],
           "WeatherTomorrow": [],
+          "CPConditions": {},
           "EPUPreconditions": [],
           "LimitedNumberOfSpawns": null
         },
@@ -6161,6 +6265,7 @@
           "WeatherYesterday": [],
           "WeatherToday": [],
           "WeatherTomorrow": [],
+          "CPConditions": {},
           "EPUPreconditions": [],
           "LimitedNumberOfSpawns": null
         },
@@ -6219,6 +6324,7 @@
           "WeatherYesterday": [],
           "WeatherToday": [],
           "WeatherTomorrow": [],
+          "CPConditions": {},
           "EPUPreconditions": [],
           "LimitedNumberOfSpawns": null
         },
@@ -6277,6 +6383,7 @@
           "WeatherYesterday": [],
           "WeatherToday": [],
           "WeatherTomorrow": [],
+          "CPConditions": {},
           "EPUPreconditions": [],
           "LimitedNumberOfSpawns": null
         },
@@ -6335,6 +6442,7 @@
           "WeatherYesterday": [],
           "WeatherToday": [],
           "WeatherTomorrow": [],
+          "CPConditions": {},
           "EPUPreconditions": [],
           "LimitedNumberOfSpawns": null
         },
@@ -6393,6 +6501,7 @@
           "WeatherYesterday": [],
           "WeatherToday": [],
           "WeatherTomorrow": [],
+          "CPConditions": {},
           "EPUPreconditions": [],
           "LimitedNumberOfSpawns": null
         },
@@ -6479,6 +6588,7 @@
           "WeatherYesterday": [],
           "WeatherToday": [],
           "WeatherTomorrow": [],
+          "CPConditions": {},
           "EPUPreconditions": [],
           "LimitedNumberOfSpawns": null
         },
@@ -6526,6 +6636,7 @@
           "WeatherYesterday": [],
           "WeatherToday": [],
           "WeatherTomorrow": [],
+          "CPConditions": {},
           "EPUPreconditions": [
             "k 1090508"
           ],
@@ -6577,6 +6688,7 @@
           "WeatherYesterday": [],
           "WeatherToday": [],
           "WeatherTomorrow": [],
+          "CPConditions": {},
           "EPUPreconditions": [],
           "LimitedNumberOfSpawns": null
         },
@@ -6626,6 +6738,7 @@
           "WeatherYesterday": [],
           "WeatherToday": [],
           "WeatherTomorrow": [],
+          "CPConditions": {},
           "EPUPreconditions": [],
           "LimitedNumberOfSpawns": null
         },
@@ -6675,6 +6788,7 @@
           "WeatherYesterday": [],
           "WeatherToday": [],
           "WeatherTomorrow": [],
+          "CPConditions": {},
           "EPUPreconditions": [],
           "LimitedNumberOfSpawns": null
         },
@@ -6777,6 +6891,7 @@
           "WeatherYesterday": [],
           "WeatherToday": [],
           "WeatherTomorrow": [],
+          "CPConditions": {},
           "EPUPreconditions": [],
           "LimitedNumberOfSpawns": null
         },
@@ -6853,6 +6968,7 @@
           "WeatherYesterday": [],
           "WeatherToday": [],
           "WeatherTomorrow": [],
+          "CPConditions": {},
           "EPUPreconditions": [],
           "LimitedNumberOfSpawns": null
         },
@@ -6906,6 +7022,7 @@
           "WeatherYesterday": [],
           "WeatherToday": [],
           "WeatherTomorrow": [],
+          "CPConditions": {},
           "EPUPreconditions": [],
           "LimitedNumberOfSpawns": null
         },
@@ -6957,6 +7074,7 @@
           "WeatherYesterday": [],
           "WeatherToday": [],
           "WeatherTomorrow": [],
+          "CPConditions": {},
           "EPUPreconditions": [],
           "LimitedNumberOfSpawns": null
         },
@@ -7054,6 +7172,7 @@
           "WeatherYesterday": [],
           "WeatherToday": [],
           "WeatherTomorrow": [],
+          "CPConditions": {},
           "EPUPreconditions": [],
           "LimitedNumberOfSpawns": null
         },
@@ -7151,6 +7270,7 @@
           "WeatherYesterday": [],
           "WeatherToday": [],
           "WeatherTomorrow": [],
+          "CPConditions": {},
           "EPUPreconditions": [],
           "LimitedNumberOfSpawns": null
         },
@@ -7248,6 +7368,7 @@
           "WeatherYesterday": [],
           "WeatherToday": [],
           "WeatherTomorrow": [],
+          "CPConditions": {},
           "EPUPreconditions": [],
           "LimitedNumberOfSpawns": null
         },
@@ -7345,6 +7466,7 @@
           "WeatherYesterday": [],
           "WeatherToday": [],
           "WeatherTomorrow": [],
+          "CPConditions": {},
           "EPUPreconditions": [],
           "LimitedNumberOfSpawns": null
         },
@@ -7401,6 +7523,7 @@
           "WeatherYesterday": [],
           "WeatherToday": [],
           "WeatherTomorrow": [],
+          "CPConditions": {},
           "EPUPreconditions": [
             "k 55134259"
           ],
@@ -7458,6 +7581,7 @@
           "WeatherYesterday": [],
           "WeatherToday": [],
           "WeatherTomorrow": [],
+          "CPConditions": {},
           "EPUPreconditions": [
             "e 55134259"
           ],
@@ -7533,6 +7657,7 @@
           "WeatherYesterday": [],
           "WeatherToday": [],
           "WeatherTomorrow": [],
+          "CPConditions": {},
           "EPUPreconditions": [],
           "LimitedNumberOfSpawns": null
         },
